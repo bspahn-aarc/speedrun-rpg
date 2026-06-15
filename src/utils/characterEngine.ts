@@ -76,12 +76,14 @@ export function generateCharacter(raceId, classId, level = 10) {
   }
 
   // ── 3. HP ────────────────────────────────────────────────────────────────
-  // cls.baseHP is the TOTAL HP for a level 10 character — not a base to add onto.
-  // Scale up or down from that anchor by hpPerLevel per level above/below 10.
-  // Floor of 1 HP per level prevents negative scaling for very low CON.
+  // Formula: ((baseHP / 10) + conMod) × level
+  // baseHP is the class's total HP at level 10 (with neutral race).
+  // conMod (from the combined class + racial CON score) adds per-level variation.
+  // This gives true linear scaling: L1 = 1/10 of L10, L20 = 2× L10.
+  // Race matters: a high-CON race gains more HP per level than a low-CON race.
   const sorcBonus  = classId === 10 ? 10 : 0;
-  const hpPerLevel = Math.max(mods.con, 1);
-  const hp         = (cls.baseHP + sorcBonus) + ((level - BASE_LEVEL) * hpPerLevel);
+  const hpPerLevel = ((cls.baseHP + sorcBonus) / BASE_LEVEL) + mods.con;
+  const hp         = Math.round(hpPerLevel * level);
 
   // ── 4. AC ─────────────────────────────────────────────────────────────────
   const normalAC = (() => {
