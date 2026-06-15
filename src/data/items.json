@@ -1,0 +1,147 @@
+[
+  {
+    "count": 4,
+    "name": "Potion of Healing",
+    "description": "Heals 10 HP"
+  },
+  {
+    "count": 4,
+    "name": "Potion of greater healing",
+    "description": "Heals 20 HP"
+  },
+  {
+    "count": 4,
+    "name": "Potion of superior healing",
+    "description": "Heals 40 HP"
+  },
+  {
+    "count": 3,
+    "name": "Potion of supreme healing",
+    "description": "Heals 60 HP"
+  },
+  {
+    "count": 3,
+    "name": "Base Weapon +1",
+    "description": "+1 to attack and damage rolls Classes that do not have a base weapon can draw again."
+  },
+  {
+    "count": 2,
+    "name": "Base Weapon +2",
+    "description": "+2 to attack and damage rolls. Classes that do not have a base weapon can draw again."
+  },
+  {
+    "count": 1,
+    "name": "Base Weapon +3",
+    "description": "+3 to attack and damage rolls. Classes that do not have a base weapon can draw again."
+  },
+  {
+    "count": 3,
+    "name": "Ring of protection +1",
+    "description": "+1 to AC and saves"
+  },
+  {
+    "count": 3,
+    "name": "Ring of protection +2",
+    "description": "+2 to AC and saves"
+  },
+  {
+    "count": 3,
+    "name": "Cloak of protection +1",
+    "description": "+1 to AC and saves"
+  },
+  {
+    "count": 3,
+    "name": "Cloak of protection +2",
+    "description": "+2 to AC and saves"
+  },
+  {
+    "count": 2,
+    "name": "Cloak of Misty Step",
+    "description": "Once per encounter, you can use this cloak to teleport up to 30 feet in a direction of your choosing."
+  },
+  {
+    "count": 4,
+    "name": "Potion of Heroism",
+    "description": "Immediately use any ability you possess, without requiring or expending charges. Excludes abilities that would result in your death."
+  },
+  {
+    "count": 4,
+    "name": "Potion of Speed",
+    "description": "During this encounter, as a reaction, you may move up to 60 feet."
+  },
+  {
+    "count": 4,
+    "name": "Potion of Battle",
+    "description": "You have advantage on attack rolls until you miss an attack, or the encounter ends."
+  },
+  {
+    "count": 4,
+    "name": "Potion of Power",
+    "description": "Regain all uses of one ability that is limited by resting."
+  },
+  {
+    "count": 4,
+    "name": "Rod of Magic Missile",
+    "description": "1d4+4 force dmg, 3 shots per use. Discard only if you roll two or more 1s when rolling damage."
+  },
+  {
+    "count": 4,
+    "name": "Rod of Scorching Ray",
+    "description": "2d6 fire damage, 3 shots per use. Discard only if you roll two 1s when rolling damage."
+  },
+  {
+    "count": 4,
+    "name": "Scroll of Lightning Bolt",
+    "description": "8d6 lightning damage in a line, DC 14 DEX save for half damage."
+  },
+  {
+    "count": 4,
+    "name": "Scroll of Disintegration",
+    "description": "8d8+6 force damage, DC 17 DEX save for no damage."
+  },
+  {
+    "count": 4,
+    "name": "Ugly Mask",
+    "description": "Target enemy makes a DC 15 WIS save or is afraid of you. Only discard if target succeeds on their save."
+  },
+  {
+    "count": 2,
+    "name": "Cloak of the Wind",
+    "description": "You may move 30' or Disengage as a bonus action. Discard if you do not use this ability on your turn."
+  },
+  {
+    "count": 4,
+    "name": "Lucky Charm",
+    "description": "Discard to reroll a d20 you just rolled. Use the higher of the two results."
+  },
+  {
+    "count": 4,
+    "name": "Warding Charm",
+    "description": "Discard to take half damage from any attack or trap."
+  },
+  {
+    "count": 2,
+    "name": "Potion of Rage",
+    "description": "Use when you deal damage: Add 2 more dice of any size the damage includes. This ability ends after the current encounter."
+  },
+  {
+    "count": 3,
+    "name": "Potion of Invulnerability",
+    "description": "After drinking, once during this encounter, become invulnerable until your next turn as a reaction."
+  },
+  {
+    "count": 3,
+    "name": "Bottle of Duplication",
+    "description": "You may discard this instead of discarding a Potion."
+  },
+  {
+    "count": 4,
+    "name": "Bag of Holding",
+    "description": "Draw two more cards!"
+  },
+  {
+    "count": 6,
+    "name": "Deck of Many Things",
+    "description": "Draw from the Deck of Many Things!"
+  }
+]

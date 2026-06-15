@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "class": "Barb",
+    "name": "Rage",
+    "description": "(Bonus action: 4/rest) For 1 minute, gain +3 to dmg rolls, resist to melee dmg, and STR advantage. Ends if not in combat. Immune to charm and fear while raging."
+  },
+  {
+    "id": 2,
+    "class": "Barb",
+    "name": "Frenzy",
+    "description": "Activate when raging: allows you to make an additional attack as a bonus action each turn.  After rage ends, you die, but next character gains +1 to hit / dmg / spell save DC."
+  },
+  {
+    "id": 3,
+    "class": "Barb",
+    "name": "Intimidating Presence",
+    "description": "As an action, menace a creature that can see and hear you. If it fails a DC 15 WIS save, it becomes afraid of you for the next turn."
+  },
+  {
+    "id": 4,
+    "class": "Barb",
+    "name": "Reckless Attack",
+    "description": "Before you attack each turn, gain advantage on attack rolls for the rest of the turn. Enemies gain advantage on attack rolls against you until your next turn."
+  },
+  {
+    "id": 5,
+    "class": "Barb",
+    "name": "My Turn",
+    "description": "(1/rest) As a reaction, you can interrupt an enemy turn which is after you on the initiative order to take an immediate charge attack against that enemy (if in range)"
+  },
+  {
+    "id": 6,
+    "class": "Bard",
+    "name": "Bardic Inspiration",
+    "description": "(3/rest) As a bonus action, grant a hearing-range character a 1d8 bonus to a d20 roll of their choice in the next 10 minutes. Max 1 bonus die at a time per character.\")"
+  },
+  {
+    "id": 7,
+    "class": "Bard",
+    "name": "Healing Word",
+    "description": "(6/rest) As a bonus action, target in line of sight gains 1d4+7 HP. No effect on undead and constructs."
+  },
+  {
+    "id": 8,
+    "class": "Bard",
+    "name": "Shatter",
+    "description": "(3/rest) In a 10-foot radius area, each creature takes 1d8+10 thunder dmg or half on a DC 15 CON save. Inorganic creatures have disadvantage."
+  },
+  {
+    "id": 9,
+    "class": "Bard",
+    "name": "Confusion",
+    "description": "(2/rest) In a 10-foot radius area, each creature is driven to confusion for up to 1 minute unless they succeed on a DC 15 WIS save. Can reattempt save each turn."
+  },
+  {
+    "id": 10,
+    "class": "Bard",
+    "name": "Hold Monster",
+    "description": "(1/rest) Target creature is paralyzed for up to 1 minute unless they succeed on a DC 15 WIS save. Can reattempt save each turn. Undead are immune."
+  },
+  {
+    "id": 11,
+    "class": "Cleric",
+    "name": "Turn Undead",
+    "description": "(2/rest) Channel divine power, destroying CR1 and lower undead and 'turning' the rest, if they fail a DC 14 WIS save."
+  },
+  {
+    "id": 12,
+    "class": "Cleric",
+    "name": "Healing Word",
+    "description": "(6/rest) As a bonus action, target in line of sight gains 2d4+4 HP. No effect on undead and constructs."
+  },
+  {
+    "id": 13,
+    "class": "Cleric",
+    "name": "Guilding Bolt",
+    "description": "(5/rest) +6 to hit, line of sight, 1d4+6 radiant damage"
+  },
+  {
+    "id": 14,
+    "class": "Cleric",
+    "name": "Flame Strike",
+    "description": "(3/rest) In a 10 foot radius, target must save DC 14 DEX save or take 1d4+9 fire dmg AND 1d4+9 radiant damage, or half on a success"
+  },
+  {
+    "id": 15,
+    "class": "Cleric",
+    "name": "Holy Sacrifice",
+    "description": "(1/ever) Touch target creature - sacrifice your life to deal 5d6+30 dmg or 5d10+30 if target is undead or demonic. Your next character is blessed with +1 atk/dmg/spell save DC."
+  },
+  {
+    "id": 16,
+    "class": "Druid",
+    "name": "Wild Shape",
+    "description": "(2/rest) As a reaction, shift into beast form, gaining one benefit: +4 AC and +20 total HP; 2x claw atk (melee) +11 to hit, 1d6+4 dmg; can fly at speed 40; or, can swim at speed 40."
+  },
+  {
+    "id": 17,
+    "class": "Druid",
+    "name": "Cure Wounds",
+    "description": "(5/rest) Touch a creature - it regains 1d8+11 HP. No effect on undead and constructs."
+  },
+  {
+    "id": 18,
+    "class": "Druid",
+    "name": "Lesser Restoration",
+    "description": "(4/rest) Touch a creature - you remove 1 disease or condition: blinded, deafened, paralyzed, or poisoned."
+  },
+  {
+    "id": 19,
+    "class": "Druid",
+    "name": "Flaming Sphere",
+    "description": "(3/rest) CONCENTRATION - Create a 5-foot sphere. Any adjacent creature ending its turn takes 3d6 fire dmg or half on a DC 14 DEX save. Move/ram up to 30 ft as a bonus action."
+  },
+  {
+    "id": 20,
+    "class": "Druid",
+    "name": "Insect Plague",
+    "description": "(1/rest) CONCENTRATION - Insects engulf a 20-ft radius area. 4d10 piercing dmg or half on a DC 14 CON save when it appears and when creatures enter or end their turns there."
+  },
+  {
+    "id": 21,
+    "class": "Fighter",
+    "name": "Action Surge",
+    "description": "(1/rest) As your bonus action, take an additional action this turn"
+  },
+  {
+    "id": 22,
+    "class": "Fighter",
+    "name": "Indominatible",
+    "description": "(1/rest) As a reaction, reroll a failed saving throw"
+  },
+  {
+    "id": 23,
+    "class": "Fighter",
+    "name": "Second Wind",
+    "description": "(1/rest) As a reaction, restore 1d10+10 HP"
+  },
+  {
+    "id": 24,
+    "class": "Fighter",
+    "name": "Overpower",
+    "description": "(1/rest) When you succeed in a melee attack you may push your opponent 10' in any direction"
+  },
+  {
+    "id": 25,
+    "class": "Fighter",
+    "name": "Sacrifice",
+    "description": "(1/rest) As a reaction, you can choose to take the damage intended for an adjacent ally"
+  },
+  {
+    "id": 26,
+    "class": "Monk",
+    "name": "Step of the Wind",
+    "description": "As a bonus action, take Dash or Disengage"
+  },
+  {
+    "id": 27,
+    "class": "Monk",
+    "name": "Way of the Open Palm",
+    "description": "Once per turn, when you hit a target, you can force them to either make a DC 15 STR save or be knocked back 15 ft, or make a DC 15 DEX save or be knocked prone"
+  },
+  {
+    "id": 28,
+    "class": "Monk",
+    "name": "Wholeness of Body",
+    "description": "(1/rest) Heal 30 HP"
+  },
+  {
+    "id": 29,
+    "class": "Monk",
+    "name": "Deflect Missiles",
+    "description": "As a reaction, deflect or catch a ranged projectile that hits you, reducing the damage by 1d10+12"
+  },
+  {
+    "id": 30,
+    "class": "Monk",
+    "name": "Evasion",
+    "description": "Effects that cause full dmg on failed DEX saves now cause half dmg when you fail and no dmg when you succeed"
+  },
+  {
+    "id": 31,
+    "class": "Paladin",
+    "name": "Lay on Hands",
+    "description": "(50 points/rest) As an action, touch a creature and restore HP from your points pool OR spend 5 points to purge 1 disease/poison"
+  },
+  {
+    "id": 32,
+    "class": "Paladin",
+    "name": "Divine Smite",
+    "description": "(5/rest) Add 3d6 radiant dmg to a successful melee attack"
+  },
+  {
+    "id": 33,
+    "class": "Paladin",
+    "name": "Sacred Weapon",
+    "description": "(1/rest) As an action, weapon is imbued with light, shedding light and gaining +5 bonus to hit and dmg for 1 min"
+  },
+  {
+    "id": 34,
+    "class": "Paladin",
+    "name": "Turn the Unholy",
+    "description": "(1/rest) As an action, censure fiends and undead within 30'. All must make a DC 17 WIS save or be turned for 1 min"
+  },
+  {
+    "id": 35,
+    "class": "Paladin",
+    "name": "Revivify",
+    "description": "(ONCE. Never comes back!): Reaction: Prevent a fatal blow to an ally (not yourself). The damage from the attack is reduced to 0."
+  },
+  {
+    "id": 36,
+    "class": "Ranger",
+    "name": "Colossus Slayer",
+    "description": "Once per turn, apply 1d8 additional dmg to a successful attack if target is below max HP"
+  },
+  {
+    "id": 37,
+    "class": "Ranger",
+    "name": "Volley",
+    "description": "Choose a number of targets. You may attack that may targets this turn, with that number as a penalty to your attack rolls."
+  },
+  {
+    "id": 38,
+    "class": "Ranger",
+    "name": "Shortsword",
+    "description": "+8 to hit, Range melee, 1d8+2 dmg"
+  },
+  {
+    "id": 39,
+    "class": "Ranger",
+    "name": "Hunter's Mark",
+    "description": "As a bonus action, mark a single target. Your attacks deal an extra 1d6 damage and you have advantage on checks made to find it if it hides or escapes."
+  },
+  {
+    "id": 40,
+    "class": "Ranger",
+    "name": "Lightning Arrow",
+    "description": "(3/rest) You fire an arrow in a line, piercing enemy creatures. Each creature in the line takes 4d6+16 lightning dmg or half on a DC 14 DEX save."
+  },
+  {
+    "id": 41,
+    "class": "Rogue",
+    "name": "Sneak Attack",
+    "description": "+1d6+16 dmg on a target with an ally adjacent, or that you have advantage against"
+  },
+  {
+    "id": 42,
+    "class": "Rogue",
+    "name": "Cunning Action",
+    "description": "As a bonus action, use Dash, Hide, Disengage, Sleight of Hand, use thieves' tools, open a lock, disarm a trap, or use/open an object"
+  },
+  {
+    "id": 43,
+    "class": "Rogue",
+    "name": "Uncanny Dodge",
+    "description": "(Reaction) Halve the dmg of an attack from an attacker you can see"
+  },
+  {
+    "id": 44,
+    "class": "Rogue",
+    "name": "Evasion",
+    "description": "Effects that cause full dmg on failed DEX saves now cause half dmg when you fail and no dmg when you succeed"
+  },
+  {
+    "id": 45,
+    "class": "Rogue",
+    "name": "Throwing Dagger",
+    "description": "+4 to hit, range: line of sight, 1d4+2 dmg"
+  },
+  {
+    "id": 46,
+    "class": "Sorcerer",
+    "name": "Font of Magic",
+    "description": "(3/rest): Gain advantage on a spell's attack rolls, impose disadvantage on a spell's saving throws, or gain back use of another spell except Cone of Cold."
+  },
+  {
+    "id": 47,
+    "class": "Sorcerer",
+    "name": "Scorching Ray",
+    "description": "(4/rest) Fire three rays of fire at any number of targets. Each takes 1d6+4 fire damage."
+  },
+  {
+    "id": 48,
+    "class": "Sorcerer",
+    "name": "Fireball",
+    "description": "(2/rest) In a 20 foot radius sphere, each creature takes 1d6+28 fire dmg or half on a DC 15 DEX save."
+  },
+  {
+    "id": 49,
+    "class": "Sorcerer",
+    "name": "Wall of Fire",
+    "description": "(1/rest) Create a 60' x 20' x 5' wall of flame lasting 1 minute. Each creature within it takes 1d8+20 fire damage or half as much on a DC 15 DEX save."
+  },
+  {
+    "id": 50,
+    "class": "Sorcerer",
+    "name": "Cone of Cold",
+    "description": "(1/rest) Create a 60 foot cone of cold air, dealing 4d8+20 cold dmg or half as much on a DC 15 CON save. Creatures killed are frozen solid."
+  },
+  {
+    "id": 51,
+    "class": "Warlock",
+    "name": "Master's Favor",
+    "description": "(3/rest) Add 1d8+5 psychic dmg to any spell (even if it doesn't do dmg normally), or gain advantage before a d20 roll, or teleport 30 ft to a spot you can see as a bonus action."
+  },
+  {
+    "id": 52,
+    "class": "Warlock",
+    "name": "Armor of Agathys",
+    "description": "(4/rest) Gain 5 temporary HP for 1 hour. So long as you have at least 1 of these temp HP, if an enemy hits you with a melee attack, they take 5 cold damage."
+  },
+  {
+    "id": 53,
+    "class": "Warlock",
+    "name": "Hold Person",
+    "description": "(4/rest) CONCENTRATION - Target humanoid is paralyzed for up to 1 minute unless they succeed on a DC 15 WIS save. Can reattempt save each turn. Undead are immune."
+  },
+  {
+    "id": 54,
+    "class": "Warlock",
+    "name": "Hypnotic Pattern",
+    "description": "(2/rest) CONCENTRATION - Targets in a 30 foot cube are charmed and immobile for up to 1 minute unless they succeed on a DC 15 WIS save. Charm ends if roused or damaged."
+  },
+  {
+    "id": 55,
+    "class": "Warlock",
+    "name": "Blight",
+    "description": "(1/rest) Target creature takes 4d8+27 necrotic dmg or half on a DC 15 CON save. Plants have disadvantage and take max damage. Undead and constructs are immune."
+  },
+  {
+    "id": 56,
+    "class": "Wizard",
+    "name": "Specialist",
+    "description": "Pick one of your other spells (except Sunbeam) at creation. That spell (and only) that spell may be cast 5 additional times per rest."
+  },
+  {
+    "id": 57,
+    "class": "Wizard",
+    "name": "Magic Missile",
+    "description": "(3/rest) Send 3 darts of magical power at any number of targets. Each deals 1d4+1 dmg"
+  },
+  {
+    "id": 58,
+    "class": "Wizard",
+    "name": "Counterspell",
+    "description": "(3/rest) As a reaction, interrupt a spell being cast by another creature. That creature can make a DC 25 INT check to try to recover the countered spell charge."
+  },
+  {
+    "id": 59,
+    "class": "Wizard",
+    "name": "Evard's Black Tentacles",
+    "description": "(3/rest) In a 20 foot square, creatures must succeed on a DC 12 DEX save or take 1d6+8 dmg and be restrained by black tentacles. Auto-dmg'd if restrained; STR or DEX to escape."
+  },
+  {
+    "id": 60,
+    "class": "Wizard",
+    "name": "Sunbeam",
+    "description": "(1/rest) Line of light pierces 60 feet; targets take 6d8 radiant dmg and are blinded or take half on DC 12 CON save. Undead and oozes: disadvantage. New line each round for 1 min."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "roll": 1,
+    "name": "Fickle",
+    "description": "Cannot perform the same ability in consecutive rounds of combat"
+  },
+  {
+    "roll": 2,
+    "name": "Selfish",
+    "description": "Cannot trade items. Must keep all items they personally draw."
+  },
+  {
+    "roll": 3,
+    "name": "Fearful",
+    "description": "At the start of your turn, if adjacent to an enemy that no other players are adjacent to, you may not take actions this turn. (You may still move.)"
+  },
+  {
+    "roll": 4,
+    "name": "Disorganized",
+    "description": "When attempting to use an item during combat, shuffle all items and draw one randomly, if a consumable is drawn, it is used. Otherwise, the attempt is wasted."
+  },
+  {
+    "roll": 5,
+    "name": "Cursed",
+    "description": "Rolling a 2 on a d20 is now also a critical failure."
+  },
+  {
+    "roll": 6,
+    "name": "Haunted",
+    "description": "When a Flaw check is made, this character draws from the Deck of Many Things. This includes the Flaw check that inflicts Haunted on the character."
+  },
+  {
+    "roll": 7,
+    "name": "Curious",
+    "description": "When this character or the entire party draws any number of cards from the Item deck, this character draws from the Deck of Many Things."
+  },
+  {
+    "roll": 8,
+    "name": "Shaky",
+    "description": "If the character has taken damage earlier in this round, they must make a DC 15 Con save at the start of their turn or they cannot use any limited use abilities."
+  },
+  {
+    "roll": 9,
+    "name": "Lazy",
+    "description": "-10 Speed, -5 Initiative"
+  },
+  {
+    "roll": 10,
+    "name": "Hesitant",
+    "description": "Cannot critically succeed, although results of 20 still count as successful hits."
+  },
+  {
+    "roll": 11,
+    "name": "Overconfident",
+    "description": "-2 AC. May draw threat from sentient enemies with their boasting."
+  },
+  {
+    "roll": 12,
+    "name": "Triggerhappy",
+    "description": "Uses abilities and consumables as soon as they become applicable to use, even if it's not advantageous. Does not include abilities that would kill this character."
+  },
+  {
+    "roll": 13,
+    "name": "Unlucky",
+    "description": "-2 to all investigate checks, 50% chance you do not find loot"
+  },
+  {
+    "roll": 14,
+    "name": "Smelly",
+    "description": "-2 to all stealth checks due to your strong odor"
+  },
+  {
+    "roll": 15,
+    "name": "Clumsy",
+    "description": "-2 to all Dexterity based checks"
+  },
+  {
+    "roll": 16,
+    "name": "Claustrophobic",
+    "description": "-5 to initiative and -2 to all attack rolls when in a space smaller that 15' wide"
+  },
+  {
+    "roll": 17,
+    "name": "Bystander",
+    "description": "Refuses to act on the first round of initiative in every encounter"
+  },
+  {
+    "roll": 18,
+    "name": "Irresponsible",
+    "description": "50% chance per encounter that one of your items goes missing"
+  },
+  {
+    "roll": 19,
+    "name": "Gullible",
+    "description": "Automatically fail opposed persuasion or deception checks"
+  },
+  {
+    "roll": 20,
+    "name": "Overprotective",
+    "description": "Choose another party member, you will do anything in your power to preserve their life including giving up your own."
+  }
+]

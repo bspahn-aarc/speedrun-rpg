@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Eye of Vecna",
+    "requirement": "To use the Eye of Vecna, you must place it in your own empty eye socket. If you do not already have a missing eye, the process of plucking out your own and replacing it gives you a Flaw.",
+    "passiveEffect": "You automatically see through illusions and traps.",
+    "abilities": [
+      {
+        "name": "Baleful Stare",
+        "description": "3/rest: You shoot an optic blast of negative energy at one target. +12 to hit, range: line of sight, 1d8+10 dmg. Target must succeed on a DC 15 Con Save or has disadvantage on its next attack."
+      },
+      {
+        "name": "Dominate Fate",
+        "description": "You have 4 Destiny points. Whenever you roll a die, you may spend any number of points to change the natural result of the die up or down by 1 per point spent. This effect averts critical misses and can cause critical hits. Points return after a long rest."
+      },
+      {
+        "name": "Perceive Possibility",
+        "description": "You may ask the DM whether using Dominate Fate would allow an attack roll to hit an otherwise-missed target, or allow you to succeed at an otherwise-failed skill check or resistance check. The DM must answer honestly."
+      }
+    ]
+  },
+  {
+    "name": "Hand of Vecna",
+    "requirement": "To use the Hand of Vecna, you must place it on your own arm stump. If you do not already have a missing hand, the process of lopping off your own and replacing it gives you a Flaw.",
+    "passiveEffect": "You have an additional +4 to melee attack and damage rolls. Additionally, you have a climb speed of 10.",
+    "abilities": [
+      {
+        "name": "Touch of Rot",
+        "description": "3/rest: Whenever you succeed with a melee attack, you may add 2d10 to the damage."
+      },
+      {
+        "name": "Grasp Destiny",
+        "description": "You have 4 Destiny points. Whenever you roll a die, you may spend any number of points to change the natural result of the die up or down by 1 per point spent. This effect averts critical misses and can cause critical hits. Points return after a long rest."
+      },
+      {
+        "name": "Seize Power",
+        "description": "You may ask the DM whether using Seize Power would allow an attack roll to hit an otherwise-missed target, or allow you to succeed at an otherwise-failed skill check or resistance check. The DM must answer honestly."
+      }
+    ]
+  },
+  {
+    "name": "Verdant Dragonscale",
+    "requirement": null,
+    "passiveEffect": null,
+    "abilities": [
+      {
+        "name": "Flaw Removal",
+        "description": "3 charges: Use a charge to remove a single Flaw from one character."
+      }
+    ]
+  },
+  {
+    "name": "Heart of the Worm",
+    "requirement": null,
+    "passiveEffect": null,
+    "abilities": [
+      {
+        "name": "Double Draw",
+        "description": "3 charges: Use a charge when a character draws from the item deck: that character may draw two cards and keep one. Put the other on the bottom of the deck."
+      }
+    ]
+  },
+  {
+    "name": "Sharklord Sabertooth",
+    "requirement": null,
+    "passiveEffect": null,
+    "abilities": [
+      {
+        "name": "Death's Door",
+        "description": "3 charges: As a reaction, use a charge when a character would die: that character instead drops to 0 and doesn't die until they drop to -20 HP or until combat has ended. You may use this on yourself."
+      }
+    ]
+  },
+  {
+    "name": "Sphinxian Cerebrum",
+    "requirement": null,
+    "passiveEffect": null,
+    "abilities": [
+      {
+        "name": "Ability Recovery",
+        "description": "3 charges: Use a charge to recover one use of a limited-use ability."
+      }
+    ]
+  }
+]

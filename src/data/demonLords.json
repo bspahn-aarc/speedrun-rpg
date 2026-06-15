@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Orcus",
+    "abilityName": "Necrotic Wave",
+    "effect": "Each living player character receives 3d10+6 necrotic damage. Each undead player character is healed for 3d10+6."
+  },
+  {
+    "name": "Demogorgon",
+    "abilityName": "Moment of Rage",
+    "effect": "Every enemy on the map immediately makes a standard attack against a DM chosen target in range. If an enemy has no targets in range, it must attack itself!"
+  },
+  {
+    "name": "Dagon",
+    "abilityName": "Watery Nightmare",
+    "effect": "All living player characters without Swim speeds receive 3d8+6 crushing damage and are knocked prone."
+  },
+  {
+    "name": "Graz'zt",
+    "abilityName": "Turncoat",
+    "effect": "Choose the player character with the lowest remaining HP. That character is now an enemy of the party, but still controlled by the player. If the DM feels they acted appropriately anti-party in this role, their next character receives 2 additional items."
+  },
+  {
+    "name": "Jubilex",
+    "abilityName": "Acidic Vortex",
+    "effect": "Every player character takes 6d10+16 acid damage. This damage may be halved for a character if that character sacrifices an item (multiple sacrifices/halvings permitted) or is halved once automatically if the character has no items."
+  },
+  {
+    "name": "Zuggtmov",
+    "abilityName": "Quicken Death",
+    "effect": "Every player character below half their starting HP loses half their remaining HP."
+  },
+  {
+    "name": "Baphomet",
+    "abilityName": "The Strongest Survive",
+    "effect": "Each player character with the highest remaining HP draws an item card. Every other player character receives 3d8+6 slashing damage."
+  },
+  {
+    "name": "Yeenoghu",
+    "abilityName": "Grim Feast",
+    "effect": "The player character with the lowest HP receives 6d10+16 piercing damage. If this is enough to kill the player character, the rest of the party is healed for 3d10+6."
+  },
+  {
+    "name": "Fraz-Urblu",
+    "abilityName": "Power Corrupts",
+    "effect": "One enemy of the DM's choice immediately takes a turn, and for that turn only, can use any ability it wishes, without needing or expending ability charges. At the end of the turn, the enemy takes 3d10+6 points of irresistable, typeless damage."
+  },
+  {
+    "name": "Lloth",
+    "abilityName": "Chaos Storm",
+    "effect": "Draw one card per player from the Deck of Many Things, plus three more. The DM looks at and discards any three cards, then shuffles the remaining cards and deals them out to the players."
+  }
+]

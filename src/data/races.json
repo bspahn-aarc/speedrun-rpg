@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "name": "Dwarf",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Stubborn",
+    "racialAbilityDescription": "Once in your character's life, you may automatically succeed at a saving throw BEFORE you roll it.",
+    "speedMod": 0
+  },
+  {
+    "id": 2,
+    "name": "Halfling",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "Stole It",
+    "racialAbilityDescription": "Start with a draw from the Item deck.",
+    "speedMod": 0
+  },
+  {
+    "id": 3,
+    "name": "Gnome",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 2,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Tinker",
+    "racialAbilityDescription": "While taking a long rest, you can discard two of your Item cards to draw a new one. You may only do this once per long rest.",
+    "speedMod": 0
+  },
+  {
+    "id": 4,
+    "name": "Elf",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 2,
+      "cha": 0
+    },
+    "racialAbilityName": "Alertness",
+    "racialAbilityDescription": "You go first in the initiative order, regardless of class. If multiple characters have Alertness, tie break on class initiative.",
+    "speedMod": 0
+  },
+  {
+    "id": 5,
+    "name": "Human",
+    "statMods": {
+      "str": 1,
+      "dex": 1,
+      "con": 1,
+      "int": 1,
+      "wis": 1,
+      "cha": 1
+    },
+    "racialAbilityName": "Destiny",
+    "racialAbilityDescription": "Once in your character's life, before rolling a d20, you may take a 20 instead. Then, roll another d20. If you get a 1, you spectacularly die as part of the consequences of the 20 you took resolve, and your next character also has this ability.",
+    "speedMod": 0
+  },
+  {
+    "id": 6,
+    "name": "Halfelf",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "Survivor",
+    "racialAbilityDescription": "When another player character dies, you gain Inspiration.",
+    "speedMod": 0
+  },
+  {
+    "id": 7,
+    "name": "Dragonborn",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "Ancient Breath",
+    "racialAbilityDescription": "(1/Rest): Targets in a 20' line from you must make a DC 14 Dex save or take Fire damage equal to half your current HP (rounded down), or half that amount on a successful save.",
+    "speedMod": 0
+  },
+  {
+    "id": 8,
+    "name": "Halforc",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Emotional",
+    "racialAbilityDescription": "(1/Rest): Before rolling damage or healing for an ability you just used, add 2 more dice of any type of dice already in the damage or healing amount.",
+    "speedMod": 0
+  },
+  {
+    "id": 9,
+    "name": "Tiefling",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 0,
+      "int": 1,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "Scorn",
+    "racialAbilityDescription": "When you land a killing blow on one or more enemy characters, choose one of your abilities limited to N uses per Rest. You gain another use of that ability, up to the original number of uses.",
+    "speedMod": 0
+  },
+  {
+    "id": 10,
+    "name": "Zombie",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Should Have Burned It",
+    "racialAbilityDescription": "Once in your character's life, if you are dealt lethal non-Fire damage, you regain 1 HP at the end of the next round if you do not take Fire damage before then. (You must still rip up your character sheet when you originally hit 0 HP!)",
+    "speedMod": 0
+  },
+  {
+    "id": 11,
+    "name": "Goblin",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 1,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Scrounger",
+    "racialAbilityDescription": "If a player character dies, you gain 1 of their items at random, not counting the character's starting potion.",
+    "speedMod": 0
+  },
+  {
+    "id": 12,
+    "name": "Modron",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 1,
+      "int": 2,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Observant",
+    "racialAbilityDescription": "Once in your character's life, you may cause an attack that just hit you to miss instead.",
+    "speedMod": 0
+  },
+  {
+    "id": 13,
+    "name": "Werewolf",
+    "statMods": {
+      "str": 2,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Awooooo",
+    "racialAbilityDescription": "If you roll a 13 on any d20 the DM asks you to roll, you may either: howl like a werewolf and gain Inspiration OR get disadvantage on your next attack roll or saving throw.",
+    "speedMod": 0
+  },
+  {
+    "id": 14,
+    "name": "Kobold",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 1,
+      "cha": 0
+    },
+    "racialAbilityName": "You No Take Candle",
+    "racialAbilityDescription": "If you die, choose 1 of your items. This item will be passed to your next character. This item cannot be taken by a Goblin, either.",
+    "speedMod": 0
+  },
+  {
+    "id": 15,
+    "name": "Gorilla",
+    "statMods": {
+      "str": 2,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Swing From The Trees",
+    "racialAbilityDescription": "You have a Climb speed of 30. You can fly up to 30' if you start and end your movement adjacent to a wall.",
+    "speedMod": 0
+  },
+  {
+    "id": 16,
+    "name": "Orc",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Brutal Attack",
+    "racialAbilityDescription": "(1/Rest): Before rolling damage for an ability you just used, add 3 more dice of any type of dice already in the damage amount.",
+    "speedMod": 0
+  },
+  {
+    "id": 17,
+    "name": "Minotaur",
+    "statMods": {
+      "str": 2,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Seeing Red",
+    "racialAbilityDescription": "As you die, you may immediately take an action that does not prevent your death. If you kill an enemy with this action, your next character gains +2 to hit, damage, and spell save DCs.",
+    "speedMod": 0
+  },
+  {
+    "id": 18,
+    "name": "Myconid",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 2,
+      "cha": 0
+    },
+    "racialAbilityName": "Who's That Pokemon?!",
+    "racialAbilityDescription": "If your character (not you) never speaks any intelligible sounds other than their name up until they die, your next character starts with two draws from the item deck.",
+    "speedMod": 0
+  },
+  {
+    "id": 19,
+    "name": "Ogre",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "The Biggest Trope",
+    "racialAbilityDescription": "If you are the first Ogre (player character or enemy!) seen in the campaign, you gain +2 to hit, damage, and spell save DCs. These bonuses are lost if another Ogre (player character or enemy!) is ever encountered.",
+    "speedMod": 0
+  },
+  {
+    "id": 20,
+    "name": "Illithid",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 2,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Hive Mind",
+    "racialAbilityDescription": "When another player character dies, choose one of your abilities limited to N uses per Rest. You gain another use of that ability, up to the original number of uses.",
+    "speedMod": 0
+  },
+  {
+    "id": 21,
+    "name": "Sahaugin",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Unimplemented",
+    "racialAbilityDescription": "Gain a Swim Speed of 80. At any time, you may declare you do not think there is any more water in the campaign. You gain +1 to hit, damage, and spell save DCs, but if any time afterwards you see a body of water you could swim in, you cease to exist.",
+    "speedMod": 0
+  },
+  {
+    "id": 22,
+    "name": "Satyr",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "Six Pack Packer",
+    "racialAbilityDescription": "When you drink any Potion Of Healing, roll a d20. On an 11+, do not discard the potion.",
+    "speedMod": 0
+  },
+  {
+    "id": 23,
+    "name": "Horse",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 1,
+      "cha": 0
+    },
+    "racialAbilityName": "Giddy-Up",
+    "racialAbilityDescription": "When you begin a move adjacent to at least one player character, you may ask one if they want a ride. If the one you ask agrees, they may place themselves adjacent to your destination after you move. Their movement does not provoke opportunity attacks.",
+    "speedMod": 0
+  },
+  {
+    "id": 24,
+    "name": "Formian",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Great Strength",
+    "racialAbilityDescription": "You have advantage on Strength saving throws and Strength based skill checks.",
+    "speedMod": 0
+  },
+  {
+    "id": 25,
+    "name": "Yeti",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Is There Even Any",
+    "racialAbilityDescription": "If your character sees snow or ice, even just a single snowflake or just a spell or ability dealing Cold damage, gain +1 to hit, attack, and damage for the rest of this character's life. Once per Yeti.",
+    "speedMod": 0
+  },
+  {
+    "id": 26,
+    "name": "Centaur",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "We All Know How",
+    "racialAbilityDescription": "Once per round, when you move, you may shoot an arrow at any target in sight as a free action: +10 to hit, 1d8+2 piercing damage.",
+    "speedMod": 0
+  },
+  {
+    "id": 27,
+    "name": "Lizardman",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 1,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Thick Scales",
+    "racialAbilityDescription": "Once in your character's life, you may half the damage you take from any single source.",
+    "speedMod": 0
+  },
+  {
+    "id": 28,
+    "name": "Gargoyle",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 1,
+      "cha": 0
+    },
+    "racialAbilityName": "Stone Form",
+    "racialAbilityDescription": "Once in your character's life, you may set your AC to 26 for an entire encounter.",
+    "speedMod": 0
+  },
+  {
+    "id": 29,
+    "name": "Troll",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Regeneration",
+    "racialAbilityDescription": "(5/rest): As a bonus action, regain 10 HP. Receiving Fire or Acid damage expends all uses of this ability without effect.",
+    "speedMod": 0
+  },
+  {
+    "id": 30,
+    "name": "Ghost",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 2,
+      "cha": 0
+    },
+    "racialAbilityName": "Spooky",
+    "racialAbilityDescription": "You can move through all other characters freely, but cannot end your movement co-occupying a space.",
+    "speedMod": 0
+  },
+  {
+    "id": 31,
+    "name": "Bear",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "The Ability D&D Bears Always Get",
+    "racialAbilityDescription": "You do not die until you reach -20 HP.",
+    "speedMod": 0
+  },
+  {
+    "id": 32,
+    "name": "Rabbitfolk",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "Hop To It",
+    "racialAbilityDescription": "You may jump an additional 20' horizontially and 5' vertically.",
+    "speedMod": 0
+  },
+  {
+    "id": 33,
+    "name": "Dryder",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "What the F#%* is that!?",
+    "racialAbilityDescription": "As a bonus action, force one enemy who can see you and has not acted during this combat yet to make a DC 17 Wis save. If they fail, they must spend their next turn trying to break line of sight with you.",
+    "speedMod": 0
+  },
+  {
+    "id": 34,
+    "name": "Dogfolk",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "Burying Bones",
+    "racialAbilityDescription": "When you find an item, you may choose to bury it instead. Your next character begins with all items you buried.",
+    "speedMod": 0
+  },
+  {
+    "id": 35,
+    "name": "Mummy",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Terrible Curse",
+    "racialAbilityDescription": "When you die, choose an enemy in sight, if one is available. That enemy takes a 1 on the next d20 they roll for any reason.",
+    "speedMod": 0
+  },
+  {
+    "id": 36,
+    "name": "Venus Flytrap",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 1,
+      "cha": 0
+    },
+    "racialAbilityName": "Chomp",
+    "racialAbilityDescription": "If you are missed by a melee attack, as a reaction, you may roll 2d20. If the attacker has less HP than the number you rolled, you devour them, regaining HP equal to their remaining HP.",
+    "speedMod": 0
+  },
+  {
+    "id": 37,
+    "name": "Genie",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 0,
+      "int": 1,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "A Bit Rusty At This",
+    "racialAbilityDescription": "(3/lifetime): You, or another willing player character, may draw from the Deck of Many Things.",
+    "speedMod": 0
+  },
+  {
+    "id": 38,
+    "name": "Xenomorph",
+    "statMods": {
+      "str": 2,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "They Mostly Come Out at 'Night'... Mostly",
+    "racialAbilityDescription": "If the event has been running for at least 2 hours, you gain +1 attack, damage, and spell save DCs.",
+    "speedMod": 0
+  },
+  {
+    "id": 39,
+    "name": "Velociraptor",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 2,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Clever",
+    "racialAbilityDescription": "If you succeed at a skill check, gain Inspiration.",
+    "speedMod": 0
+  },
+  {
+    "id": 40,
+    "name": "Conquistador",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 0,
+      "int": 0,
+      "wis": 1,
+      "cha": 2
+    },
+    "racialAbilityName": "The Day Is Mine",
+    "racialAbilityDescription": "(1/rest): When you roll a 20 or higher, naural or modified, you may gain Inspiration if you shout \"The Day Is Mine!\" in a thick spanish accent",
+    "speedMod": 0
+  },
+  {
+    "id": 41,
+    "name": "Doppelganger",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Copy",
+    "racialAbilityDescription": "Choose another player. You mimic their stats and abilities they do. If they die, you take their character sheet (but keep your own items.)",
+    "speedMod": 0
+  },
+  {
+    "id": 42,
+    "name": "Drow",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "Throwing Shade",
+    "racialAbilityDescription": "As a bonus action, you may add 1d6 to your damage rolls when indoors or below ground.",
+    "speedMod": 0
+  },
+  {
+    "id": 43,
+    "name": "Moogle",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "Tiny Wings",
+    "racialAbilityDescription": "You have a Fly Speed of 5.",
+    "speedMod": 0
+  },
+  {
+    "id": 44,
+    "name": "Wookiee",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Let the Wookiee Win",
+    "racialAbilityDescription": "Once in your character's life, you may choose to succeed on any d20 roll you just failed. This ability can be countered by the last boss of the campaign (even if he/she is not in sight or has not been encountered yet!) taking 2d6+3 damage.",
+    "speedMod": 0
+  },
+  {
+    "id": 45,
+    "name": "Treant",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 2,
+      "cha": 0
+    },
+    "racialAbilityName": "Rooted",
+    "racialAbilityDescription": "You can not be moved against your will so long as you are touching a solid surface.",
+    "speedMod": 0
+  },
+  {
+    "id": 46,
+    "name": "Frankenstein",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 0,
+      "int": 2,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "Actually, you mean Frankenstein's Monster",
+    "racialAbilityDescription": "If you're struck with lightning damage, you are healed instead and gain Inspiration. If you're struck with fire damage, you receive a random Flaw. (Each effect can only occur once each encounter.)",
+    "speedMod": 0
+  },
+  {
+    "id": 47,
+    "name": "Pirate",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Pirate Pride",
+    "racialAbilityDescription": "You deal +2 damage. If a Ninja is also in the party, you also get +2 to hit and spell save DCs.",
+    "speedMod": 0
+  },
+  {
+    "id": 48,
+    "name": "Ninja",
+    "statMods": {
+      "str": 1,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Ninja Pride",
+    "racialAbilityDescription": "You have +2 to hit and spell save DCs. If a Pirate is also in the party, you also get +2 damage.",
+    "speedMod": 0
+  },
+  {
+    "id": 49,
+    "name": "Cowboy",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "Quick Draw",
+    "racialAbilityDescription": "(1/rest): Use one of your abilities as a free action. You may also use Quick Draw for free whenever you're the target of the Horse's Giddy Up.",
+    "speedMod": 0
+  },
+  {
+    "id": 50,
+    "name": "Vampire",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "Blood Draught",
+    "racialAbilityDescription": "(1/rest): Whenever another character takes damage, you regain HP equal to half the damage dealt. Gain a use of this ability whenever a party member dies.",
+    "speedMod": 0
+  },
+  {
+    "id": 51,
+    "name": "Dwarf",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Stubborn",
+    "racialAbilityDescription": "Once in your character's life, you may automatically succeed at a saving throw BEFORE you roll it.",
+    "speedMod": 0
+  },
+  {
+    "id": 52,
+    "name": "Halfling",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "Stole It",
+    "racialAbilityDescription": "Start with a draw from the Item deck.",
+    "speedMod": 0
+  },
+  {
+    "id": 53,
+    "name": "Gnome",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 2,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Tinker",
+    "racialAbilityDescription": "While taking a long rest, you can discard two of your Item cards to draw a new one. You may only do this once per long rest.",
+    "speedMod": 0
+  },
+  {
+    "id": 54,
+    "name": "Elf",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 2,
+      "cha": 0
+    },
+    "racialAbilityName": "Alertness",
+    "racialAbilityDescription": "You go first in the initiative order, regardless of class. If multiple characters have Alertness, tie break on class initiative.",
+    "speedMod": 0
+  },
+  {
+    "id": 55,
+    "name": "Human",
+    "statMods": {
+      "str": 1,
+      "dex": 1,
+      "con": 1,
+      "int": 1,
+      "wis": 1,
+      "cha": 1
+    },
+    "racialAbilityName": "Destiny",
+    "racialAbilityDescription": "Once in your character's life, before rolling a d20, you may take a 20 instead. Then, roll another d20. If you get a 1, you spectacularly die as part of the consequences of the 20 you took resolve, and your next character also has this ability.",
+    "speedMod": 0
+  },
+  {
+    "id": 56,
+    "name": "Halfelf",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "Survivor",
+    "racialAbilityDescription": "When another player character dies, you gain Inspiration.",
+    "speedMod": 0
+  },
+  {
+    "id": 57,
+    "name": "Dragonborn",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "Ancient Breath",
+    "racialAbilityDescription": "(1/Rest): Targets in a 20' line from you must make a DC 14 Dex save or take Fire damage equal to half your current HP (rounded down), or half that amount on a successful save.",
+    "speedMod": 0
+  },
+  {
+    "id": 58,
+    "name": "Halforc",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Emotional",
+    "racialAbilityDescription": "(1/Rest): Before rolling damage or healing for an ability you just used, add 2 more dice of any type of dice already in the damage or healing amount.",
+    "speedMod": 0
+  },
+  {
+    "id": 59,
+    "name": "Tiefling",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 0,
+      "int": 1,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "Scorn",
+    "racialAbilityDescription": "When you land a killing blow on one or more enemy characters, choose one of your abilities limited to N uses per Rest. You gain another use of that ability, up to the original number of uses.",
+    "speedMod": 0
+  },
+  {
+    "id": 60,
+    "name": "Aarakocra",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Dive Bomber",
+    "racialAbilityDescription": "You have a fly Speed of 50 ft and as an action can dive on your opponent adding an additional 1d6 damage to your melee or ranged spell attack.",
+    "speedMod": 0
+  },
+  {
+    "id": 61,
+    "name": "Bugbear",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Ambush",
+    "racialAbilityDescription": "When attacking an enemy that has not yet gone this round of combat you have +2 to hit and +2 damage.",
+    "speedMod": 0
+  },
+  {
+    "id": 62,
+    "name": "Bullywug",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 1,
+      "int": 2,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Leap of Faith",
+    "racialAbilityDescription": "As a bonus action, you can leap using your strong hind legs and move an additional 1/2 your move speed in the direction of your choice.",
+    "speedMod": 0
+  },
+  {
+    "id": 63,
+    "name": "Azer",
+    "statMods": {
+      "str": 2,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "A little heated",
+    "racialAbilityDescription": "Whenever you are touched or hit with a melee attack (within 5 feet) the creature takes 5 fire damage.",
+    "speedMod": 0
+  },
+  {
+    "id": 64,
+    "name": "Banshee",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "Corrupt",
+    "racialAbilityDescription": "As a bonus action you can add 5 necrotic damage to any successful attack",
+    "speedMod": 0
+  },
+  {
+    "id": 65,
+    "name": "Ravenfolk",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "Mimicry",
+    "racialAbilityDescription": "(1/rest) You can give an enemy disadvantage on the roll of your choice by mimicing their voice",
+    "speedMod": 0
+  },
+  {
+    "id": 66,
+    "name": "Ratfolk",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 1,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "You dirty Rat",
+    "racialAbilityDescription": "As a bonus action you can add 5 poison damage to any successful attack",
+    "speedMod": 0
+  },
+  {
+    "id": 67,
+    "name": "Gnoll",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Scavenger",
+    "racialAbilityDescription": "Whenever you draw from the loot deck you draw an additional card",
+    "speedMod": 0
+  },
+  {
+    "id": 68,
+    "name": "Shadow Fey",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "Misty Step",
+    "racialAbilityDescription": "(1/rest) As a reaction, you are briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.",
+    "speedMod": 0
+  },
+  {
+    "id": 69,
+    "name": "Anubian",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Dust to Dust",
+    "racialAbilityDescription": "Instead of moving, you can collapse into loose sand on the floor and reform in an unoccupied space within 10 feet (Immune to grapple or paralysis)",
+    "speedMod": 0
+  },
+  {
+    "id": 70,
+    "name": "Burrowling",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "Stick together",
+    "racialAbilityDescription": "When adjacent to a ally that is capable of attacking, you get a +2 to hit, damage, and AC",
+    "speedMod": 0
+  },
+  {
+    "id": 71,
+    "name": "Clockwork",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Out with a bang",
+    "racialAbilityDescription": "(1/lifetime) When you are destroyed, all creatures within 15' suffer 4d6 fire damage",
+    "speedMod": 0
+  },
+  {
+    "id": 72,
+    "name": "Dryad",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "Barkskin",
+    "racialAbilityDescription": "(1/rest) Your skin turns to thick tree bark. You gain a +2 to AC and saving throws for 1d6 rounds",
+    "speedMod": 0
+  },
+  {
+    "id": 73,
+    "name": "Eonic Drifter",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 1,
+      "int": 0,
+      "wis": 1,
+      "cha": 0
+    },
+    "racialAbilityName": "Time Traveler",
+    "racialAbilityDescription": "(1/rest) When you make a successful attack, instead of doing damage, you can push the target back 10 feet and forward in time 1d4 rounds reappearing in the space you designated.",
+    "speedMod": 0
+  },
+  {
+    "id": 74,
+    "name": "Templar",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Holy Avenger",
+    "racialAbilityDescription": "You have advantage on all atack rolls against undead, deamons, or devils",
+    "speedMod": 0
+  },
+  {
+    "id": 75,
+    "name": "Ghoul",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Just shower already!!",
+    "racialAbilityDescription": "Any creature starting it's turn within 5 feet of you must succeed at a DC 13 constitution save or be sickened until the start of it's next turn",
+    "speedMod": 0
+  },
+  {
+    "id": 76,
+    "name": "Clay Golem",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Had to split",
+    "racialAbilityDescription": "(1/lifetime) When you die, tear your character sheet in two pieces. Each sheet now represents a smaller version of you with 1/4 your starting HP under your control and has all of your skills.",
+    "speedMod": 0
+  },
+  {
+    "id": 77,
+    "name": "Mime",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "Shhh…",
+    "racialAbilityDescription": "Provided you have not spoken, you receive a +2 to all attack rolls, damage, and saving throws. If you speak, all these rolls are at a -1 instead.",
+    "speedMod": 0
+  },
+  {
+    "id": 78,
+    "name": "Herald",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "The ultimate showman",
+    "racialAbilityDescription": "Use your announcer voice to give a thorough play by play of the events and gain a +2 to all attack rolls and saving throws.",
+    "speedMod": 0
+  },
+  {
+    "id": 79,
+    "name": "Wight",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "That sucks",
+    "racialAbilityDescription": "(3/rest) When you succeed in an attack you can add 1d6 necrotic damage healing the total amount of the damage roll.",
+    "speedMod": 0
+  },
+  {
+    "id": 80,
+    "name": "Catfolk",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "9 lives",
+    "racialAbilityDescription": "When you die, make a sad meow sound and rip your character up into 9 pieces. Set one aside. Each piece represents 10hp. Set one aside for each 10 hp of damage you take. So long as you have pieces left you are still alive.",
+    "speedMod": 0
+  },
+  {
+    "id": 81,
+    "name": "War Ostrich",
+    "statMods": {
+      "str": 1,
+      "dex": 1,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Battle leaper",
+    "racialAbilityDescription": "You may leap up to 20 feet as a bonus action (Does not trigger AOO) If you leap at least 10 feet and land within 5 feet of a creature, you have advantage of attack rolls against that creature this turn.",
+    "speedMod": 0
+  },
+  {
+    "id": 82,
+    "name": "Roachling",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "RAID!",
+    "racialAbilityDescription": "As a bonus action, you can use the disengage action and gain a +2 to CON saves",
+    "speedMod": 0
+  },
+  {
+    "id": 83,
+    "name": "Cthulhu spawn",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "The great new one",
+    "racialAbilityDescription": "(1/rest) You may call down the hand of Cthulhu on a foe of your choice. That creature must pass a DC 17 DEX save or take 8d8 force damage.",
+    "speedMod": 0
+  },
+  {
+    "id": 84,
+    "name": "Naga",
+    "statMods": {
+      "str": 1,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "A tight squeeze",
+    "racialAbilityDescription": "(1/rest) You may attempt to coil around a creature of your choice within 15'. That creature must make a DC17 STR save or take 8d8 Bludgeoning damage",
+    "speedMod": 0
+  },
+  {
+    "id": 85,
+    "name": "Viking",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Valhalla awaits!",
+    "racialAbilityDescription": "If you die gloriously in battle, you burst into flames causing 2d6 fire damage to all creatures within 15'. Your next character starts with 2 draws of the items deck.",
+    "speedMod": 0
+  },
+  {
+    "id": 86,
+    "name": "Valkyrie",
+    "statMods": {
+      "str": 1,
+      "dex": 1,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Radiant beauty",
+    "racialAbilityDescription": "(3/rest) When you succeed in an attack you can add 1d6 radiant damage healing a character of your choice the total amount of the damage roll.",
+    "speedMod": 0
+  },
+  {
+    "id": 87,
+    "name": "Puppet",
+    "statMods": {
+      "str": 0,
+      "dex": 0,
+      "con": 0,
+      "int": 1,
+      "wis": 0,
+      "cha": 2
+    },
+    "racialAbilityName": "Is that a hand up your ass?",
+    "racialAbilityDescription": "Choose another player. That player is your master. If they live you get +2 to saves and attack rolls. If they die, you fall to the ground lifeless.",
+    "speedMod": 0
+  },
+  {
+    "id": 88,
+    "name": "Cultist",
+    "statMods": {
+      "str": 1,
+      "dex": 1,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Drinking the Kool Aid",
+    "racialAbilityDescription": "Choose another player. You are a member of the cult of that other player. While that player lives, you get a +2 to attack rolls and Saving Throws. When they die, you commit suicide. Your next character is rewarded with a draw of the items deck for your service.",
+    "speedMod": 0
+  },
+  {
+    "id": 89,
+    "name": "Dhamphir",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 0,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "One foot in the grave",
+    "racialAbilityDescription": "When another player dies, you gain HP equal to 1/4 the killing blow Rounded up and +2 to attack rolls for the remainder of the encounter.",
+    "speedMod": 0
+  },
+  {
+    "id": 90,
+    "name": "Jinnborn",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "I only wish I had wishes…",
+    "racialAbilityDescription": "(3/rest) If another player says \"Wish\" you may give them a 1d10 inspiration die to add to any attack roll or saving throw.",
+    "speedMod": 0
+  },
+  {
+    "id": 91,
+    "name": "Ochre Jelly",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "It burns!!",
+    "racialAbilityDescription": "(3/rest) When you succeed in an attack you can add 1d6 acid damage healing the total amount of the damage roll.",
+    "speedMod": 0
+  },
+  {
+    "id": 92,
+    "name": "Revenant",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 1
+    },
+    "racialAbilityName": "The Reanimator",
+    "racialAbilityDescription": "(1/rest) if another party member dies, stop them from ripping up their sheet and exchange yours for theirs. The new character has full HP and all their skills and re-joins the party immediately.",
+    "speedMod": 0
+  },
+  {
+    "id": 93,
+    "name": "Skeleton",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "\"Bones McCoy\"",
+    "racialAbilityDescription": "All non-Bludgeoning or force damage you take is halved.",
+    "speedMod": 0
+  },
+  {
+    "id": 94,
+    "name": "Githyanki",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Plane Shift",
+    "racialAbilityDescription": "(1/rest) As a reaction, you are briefly traverse the astrial plane, you teleport up to 30 feet to an unoccupied space that you can see.",
+    "speedMod": 0
+  },
+  {
+    "id": 95,
+    "name": "Deep Gnome",
+    "statMods": {
+      "str": 1,
+      "dex": 1,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Dark Cunning",
+    "racialAbilityDescription": "You have advantage on stealth checks when in rocky terrain, below ground, and against magic effects.",
+    "speedMod": 0
+  },
+  {
+    "id": 96,
+    "name": "Kuo-Toa",
+    "statMods": {
+      "str": 1,
+      "dex": 0,
+      "con": 1,
+      "int": 1,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "God Maker",
+    "racialAbilityDescription": "Choose another party member. You look to them as a god and will do anything to protect them. So long as they live, you get a +2 to attack rolls and saving throws. If they die, your hopes and dreams are shattered and your atack rolls and saving throws are at a -1 instead.",
+    "speedMod": 0
+  },
+  {
+    "id": 97,
+    "name": "Hobgoblin",
+    "statMods": {
+      "str": 1,
+      "dex": 1,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Natural Leader",
+    "racialAbilityDescription": "(1/rest) As a reaction, you can command another party member to take a disengage action prior to calculating any damage",
+    "speedMod": 0
+  },
+  {
+    "id": 98,
+    "name": "Forest Hunter",
+    "statMods": {
+      "str": 0,
+      "dex": 2,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Bet you didn't see that coming",
+    "racialAbilityDescription": "As a bonus action you can assign a creature as your prey and any attacks against it add an additonal 1d6 on a successful hit",
+    "speedMod": 0
+  },
+  {
+    "id": 99,
+    "name": "Erina",
+    "statMods": {
+      "str": 0,
+      "dex": 1,
+      "con": 2,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Can't touch this!",
+    "racialAbilityDescription": "Any enemy that hits you with a melee attack within 5 feet takes 2d4 piercing damage as a reaction.",
+    "speedMod": 0
+  },
+  {
+    "id": 100,
+    "name": "Ettin",
+    "statMods": {
+      "str": 2,
+      "dex": 0,
+      "con": 1,
+      "int": 0,
+      "wis": 0,
+      "cha": 0
+    },
+    "racialAbilityName": "Two Heads are better than one",
+    "racialAbilityDescription": "If you suffer a fatal wound and still have both heads, you lose one and are healed 30 HP.",
+    "speedMod": 0
+  }
+]

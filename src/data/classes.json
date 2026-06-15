@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1,
+    "name": "Barbarian",
+    "baseHP": 90,
+    "saves": [
+      "STR",
+      "CON"
+    ],
+    "profBonus": 4,
+    "baseStats": {
+      "str": 18,
+      "dex": 14,
+      "con": 15,
+      "int": 8,
+      "wis": 10,
+      "cha": 12
+    },
+    "atkStatIndex": 1,
+    "atkStat": "STR",
+    "baseWeapon": "greataxe",
+    "baseDmg": "1d10",
+    "range": "melee",
+    "armor": "unarmored",
+    "baseAC": 10,
+    "numAttacks": 2,
+    "abilityIDs": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "speedMod": 0,
+    "skills": "Intimidation +7, Survival +6",
+    "resist": "",
+    "initiative": 18
+  },
+  {
+    "id": 2,
+    "name": "Fighter",
+    "baseHP": 75,
+    "saves": [
+      "STR",
+      "CON"
+    ],
+    "profBonus": 4,
+    "baseStats": {
+      "str": 16,
+      "dex": 14,
+      "con": 16,
+      "int": 10,
+      "wis": 8,
+      "cha": 12
+    },
+    "atkStatIndex": 1,
+    "atkStat": "STR",
+    "baseWeapon": "longsword",
+    "baseDmg": "1d8",
+    "range": "melee",
+    "armor": "platemail + shield",
+    "baseAC": 20,
+    "numAttacks": 2,
+    "abilityIDs": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "speedMod": 0,
+    "skills": "Intimidation +7, Athletics +8",
+    "resist": "",
+    "initiative": 14
+  },
+  {
+    "id": 3,
+    "name": "Monk",
+    "baseHP": 60,
+    "saves": [
+      "STR",
+      "DEX"
+    ],
+    "profBonus": 4,
+    "baseStats": {
+      "str": 10,
+      "dex": 17,
+      "con": 13,
+      "int": 8,
+      "wis": 16,
+      "cha": 12
+    },
+    "atkStatIndex": 2,
+    "atkStat": "DEX",
+    "baseWeapon": "unarmed strike",
+    "baseDmg": "1d4",
+    "range": "melee",
+    "armor": "unarmored",
+    "baseAC": 10,
+    "numAttacks": 4,
+    "abilityIDs": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "speedMod": 0,
+    "skills": "Insight +6, Acrobatics  +6",
+    "resist": "",
+    "initiative": 22
+  },
+  {
+    "id": 4,
+    "name": "Paladin",
+    "baseHP": 75,
+    "saves": [
+      "WIS",
+      "CHA"
+    ],
+    "profBonus": 4,
+    "baseStats": {
+      "str": 16,
+      "dex": 8,
+      "con": 14,
+      "int": 10,
+      "wis": 12,
+      "cha": 16
+    },
+    "atkStatIndex": 1,
+    "atkStat": "STR",
+    "baseWeapon": "sword and shield",
+    "baseDmg": "1d8",
+    "range": "melee",
+    "armor": "splint mail + shield",
+    "baseAC": 19,
+    "numAttacks": 2,
+    "abilityIDs": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "speedMod": 0,
+    "skills": "Persuasion +7, Religion +6",
+    "resist": "",
+    "initiative": 2
+  },
+  {
+    "id": 5,
+    "name": "Ranger",
+    "baseHP": 75,
+    "saves": [
+      "STR",
+      "DEX"
+    ],
+    "profBonus": 4,
+    "baseStats": {
+      "str": 8,
+      "dex": 17,
+      "con": 12,
+      "int": 10,
+      "wis": 16,
+      "cha": 13
+    },
+    "atkStatIndex": 2,
+    "atkStat": "DEX",
+    "baseWeapon": "bow and arrows",
+    "baseDmg": "1d8",
+    "range": "line of sight",
+    "armor": "scalemail",
+    "baseAC": 16,
+    "numAttacks": 2,
+    "abilityIDs": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "speedMod": 0,
+    "skills": "Animal Handling +6, Survival +6, Nature +6",
+    "resist": "",
+    "initiative": 20
+  },
+  {
+    "id": 6,
+    "name": "Rogue",
+    "baseHP": 60,
+    "saves": [
+      "DEX",
+      "INT"
+    ],
+    "profBonus": 4,
+    "baseStats": {
+      "str": 10,
+      "dex": 18,
+      "con": 8,
+      "int": 15,
+      "wis": 12,
+      "cha": 13
+    },
+    "atkStatIndex": 2,
+    "atkStat": "DEX",
+    "baseWeapon": "shortsword",
+    "baseDmg": "1d6",
+    "range": "melee",
+    "armor": "leather armor",
+    "baseAC": 11,
+    "numAttacks": 1,
+    "abilityIDs": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "speedMod": 0,
+    "skills": "Acrobatics +6, Deception +7, Stealth +6, Sleight of Hand +6",
+    "resist": "",
+    "initiative": 24
+  },
+  {
+    "id": 7,
+    "name": "Bard",
+    "baseHP": 60,
+    "saves": [
+      "DEX",
+      "CHA"
+    ],
+    "profBonus": 4,
+    "baseStats": {
+      "str": 8,
+      "dex": 15,
+      "con": 10,
+      "int": 14,
+      "wis": 12,
+      "cha": 17
+    },
+    "atkStatIndex": 2,
+    "atkStat": "DEX",
+    "baseWeapon": "rapier",
+    "baseDmg": "1d8",
+    "range": "melee",
+    "armor": "leather armor",
+    "baseAC": 11,
+    "numAttacks": 1,
+    "abilityIDs": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "speedMod": 0,
+    "skills": "Arcana +4, Performance +7, Insight +6, History +4",
+    "resist": "",
+    "initiative": 16
+  },
+  {
+    "id": 8,
+    "name": "Cleric",
+    "baseHP": 60,
+    "saves": [
+      "WIS",
+      "CHA"
+    ],
+    "profBonus": 4,
+    "baseStats": {
+      "str": 13,
+      "dex": 8,
+      "con": 14,
+      "int": 10,
+      "wis": 19,
+      "cha": 12
+    },
+    "atkStatIndex": 5,
+    "atkStat": "WIS",
+    "baseWeapon": "sacred flame",
+    "baseDmg": "1d8",
+    "range": "line of sight",
+    "armor": "chain mail + shield",
+    "baseAC": 18,
+    "numAttacks": 1,
+    "abilityIDs": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "speedMod": 0,
+    "skills": "Medicine +6, Religion +6",
+    "resist": "",
+    "initiative": 4
+  },
+  {
+    "id": 9,
+    "name": "Druid",
+    "baseHP": 60,
+    "saves": [
+      "INT",
+      "WIS"
+    ],
+    "profBonus": 4,
+    "baseStats": {
+      "str": 11,
+      "dex": 13,
+      "con": 15,
+      "int": 13,
+      "wis": 16,
+      "cha": 8
+    },
+    "atkStatIndex": 5,
+    "atkStat": "WIS",
+    "baseWeapon": "poison spray",
+    "baseDmg": "1d10",
+    "range": "15 ft",
+    "armor": "leather armor",
+    "baseAC": 11,
+    "numAttacks": 1,
+    "abilityIDs": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "speedMod": 0,
+    "skills": "Animal Handling +6, Nature +6",
+    "resist": "",
+    "initiative": 12
+  },
+  {
+    "id": 10,
+    "name": "Sorcerer",
+    "baseHP": 45,
+    "saves": [
+      "CON",
+      "CHA"
+    ],
+    "profBonus": 4,
+    "baseStats": {
+      "str": 12,
+      "dex": 13,
+      "con": 16,
+      "int": 10,
+      "wis": 8,
+      "cha": 17
+    },
+    "atkStatIndex": 6,
+    "atkStat": "CHA",
+    "baseWeapon": "fire bolt",
+    "baseDmg": "2d8",
+    "range": "line of sight",
+    "armor": "cloth armor",
+    "baseAC": 10,
+    "numAttacks": 1,
+    "abilityIDs": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "speedMod": 0,
+    "skills": "Arcana +4, Intimidation +7",
+    "resist": "",
+    "initiative": 10
+  },
+  {
+    "id": 11,
+    "name": "Warlock",
+    "baseHP": 45,
+    "saves": [
+      "WIS",
+      "CHA"
+    ],
+    "profBonus": 4,
+    "baseStats": {
+      "str": 8,
+      "dex": 10,
+      "con": 14,
+      "int": 12,
+      "wis": 13,
+      "cha": 19
+    },
+    "atkStatIndex": 6,
+    "atkStat": "CHA",
+    "baseWeapon": "eldritch blast",
+    "baseDmg": "1d10",
+    "range": "line of sight",
+    "armor": "cloth armor",
+    "baseAC": 10,
+    "numAttacks": 2,
+    "abilityIDs": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "speedMod": 0,
+    "skills": "Deception +7, Investigation +4",
+    "resist": "",
+    "initiative": 8
+  },
+  {
+    "id": 12,
+    "name": "Wizard",
+    "baseHP": 45,
+    "saves": [
+      "INT",
+      "WIS"
+    ],
+    "profBonus": 4,
+    "baseStats": {
+      "str": 10,
+      "dex": 14,
+      "con": 13,
+      "int": 19,
+      "wis": 12,
+      "cha": 8
+    },
+    "atkStatIndex": 4,
+    "atkStat": "INT",
+    "baseWeapon": "ray of frost",
+    "baseDmg": "2d6",
+    "range": "line of sight",
+    "armor": "cloth armor",
+    "baseAC": 10,
+    "numAttacks": 1,
+    "abilityIDs": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "speedMod": 0,
+    "skills": "Arcana +4, Investigation +4",
+    "resist": "",
+    "initiative": 6
+  }
+]

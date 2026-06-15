@@ -1,0 +1,1243 @@
+{
+  "attribution": {
+    "title": "More Entertaining Wild Magic Surges",
+    "author": "Anonymous (original creator of dndcharoptions.atwebpages.com)",
+    "source": "http://dndcharoptions.atwebpages.com/5e/wild-surges/",
+    "license": "Used with attribution. All rights belong to the original creator.",
+    "designNotes": "Originally created for a gnome wild mage in a mid-level campaign (levels 7–13). Some results reference gnomes as flavor — easily adapted for any character. The DM is free to nix, change, or request a reroll if a result would be too disruptive to the campaign."
+  },
+  "howToUse": {
+    "step1": "Roll 1d6 to determine surge type: 1 or 4 = Beneficial, 2 or 5 = Detrimental, 3 or 6 = Harmless.",
+    "step2": "Roll d100 (d%) on the appropriate table.",
+    "totalResults": "300 unique results across three tables (plus cross-references to bag of beans, wand of wonder, and vanilla PHB wild magic surge table)."
+  },
+  "tables": {
+    "beneficial": {
+      "label": "Mostly Beneficial Wild Magic Surge",
+      "d6Triggers": [
+        1,
+        4
+      ],
+      "entries": [
+        {
+          "roll": 1,
+          "effect": "If your target is yourself or an ally, they regenerate 5 hit points per round for 1d10 rounds (stops if they take necrotic damage). If they are an enemy, they are affected by a harm spell. If neither applies, reroll."
+        },
+        {
+          "roll": 2,
+          "effect": "A skeleton, zombie, or other undead bursts out of the ground. For 10 minutes it follows you obediently, acting as an unseen servant — except it's visible."
+        },
+        {
+          "roll": 3,
+          "effect": "Everyone within 30 feet — friend or foe — is healed to full and treated as if under calm emotions (no save) for 1d3 rounds."
+        },
+        {
+          "roll": 4,
+          "effect": "The spell you just cast is immediately accompanied by a thunderwave centered on the target, cast at your highest available spell level. The scent of methane fills the air."
+        },
+        {
+          "roll": 5,
+          "effect": "Your magic becomes completely competent for the next 1d4 rounds. You cannot cause another wild surge for any reason for the duration."
+        },
+        {
+          "roll": 6,
+          "effect": "All magic items using charges within 60 feet are supercharged — used freely without expending charges for 5 rounds. Affected items glow pink and blue."
+        },
+        {
+          "roll": 7,
+          "effect": "For the next 7 turns, you have Advantage on every ability check, even rolls you would otherwise have Disadvantage on."
+        },
+        {
+          "roll": 8,
+          "effect": "You and your allies jump back in time one round and get to live it over, including any conditions from that round."
+        },
+        {
+          "roll": 9,
+          "effect": "You gain the benefits of stoneskin for one hour. You appear as a living statue, though clothing and gear remain unaffected."
+        },
+        {
+          "roll": 10,
+          "effect": "A burst of scintillating light flashes from you. All creatures within 30 feet have all diseases, curses, and negative effects stripped. They also regenerate 10 HP every turn for 1d6 rounds."
+        },
+        {
+          "roll": 11,
+          "effect": "Your spell is replaced by a prismatic spray. You gain insight at the last minute and can direct the spray as if you cast it intentionally."
+        },
+        {
+          "roll": 12,
+          "effect": "You are surrounded by a globe of invulnerability for 1d4 rounds, cast at your highest available spell slot. (If unable to cast 6th-level spells, reroll.)"
+        },
+        {
+          "roll": 13,
+          "effect": "The target(s) of your spell gains glibness for the next hour and is aware of this. If no valid target, you gain the effect instead."
+        },
+        {
+          "roll": 14,
+          "effect": "You transform into gaseous form as per the spell for 2d6 rounds, gaining all associated advantages and disadvantages. You may not end the effect prematurely."
+        },
+        {
+          "roll": 15,
+          "effect": "Your clothing becomes utterly magnificent for the next 10 minutes. You gain Advantage on all Charisma checks for the duration."
+        },
+        {
+          "roll": 16,
+          "effect": "The target(s) of your spell gains foresight for 2d4 rounds. If no valid target, roll for another surge."
+        },
+        {
+          "roll": 17,
+          "effect": "The next History, Arcana, Religion, or Nature check you make to learn information automatically succeeds as if you rolled a natural 20."
+        },
+        {
+          "roll": 18,
+          "effect": "Any equipped magic items you have that carry charges are instantly recharged to full."
+        },
+        {
+          "roll": 19,
+          "effect": "You gain a bonus Action that you must use immediately."
+        },
+        {
+          "roll": 20,
+          "effect": "You immediately heal all damage, all negative conditions are removed, you gain 1d10 temp HP per class level, skin turns green, STR boosts to 24 for 1d10 rounds, and you have Advantage on STR and CON checks. You prefer physical attacks until the surge ends."
+        },
+        {
+          "roll": 21,
+          "effect": "All magical items within 60 feet lose their magical properties for 1d4 rounds. Only items fully within the radius are affected."
+        },
+        {
+          "roll": 22,
+          "effect": "You and your allies are transported ten minutes into the future. The exact consequences are up to the DM."
+        },
+        {
+          "roll": 23,
+          "effect": "The DM chooses you or one ally at random. For 1d10 rounds, any weapon they wield gains the benefits of a holy avenger, in addition to its current properties."
+        },
+        {
+          "roll": 24,
+          "effect": "All flora within 100 feet is affected by plant growth, as if cast for 8 hours."
+        },
+        {
+          "roll": 25,
+          "effect": "Your spell fails. In its place, a large elemental appears and serves you faithfully for 10 minutes (d4: 1=air, 2=earth, 3=fire, 4=water)."
+        },
+        {
+          "roll": 26,
+          "effect": "The effect, duration, and/or area of the spell or ability you just used is doubled."
+        },
+        {
+          "roll": 27,
+          "effect": "A prominent third eye appears on your forehead for 10 minutes, allowing perfect vision regardless of ambient conditions."
+        },
+        {
+          "roll": 28,
+          "effect": "You can cast the same spell on your next turn as a bonus action without expending any additional spell slots."
+        },
+        {
+          "roll": 29,
+          "effect": "You turn invisible for 1d4+1 turns. Nothing you can do will make you fully visible until the effect ends."
+        },
+        {
+          "roll": 30,
+          "effect": "You can speak, read, and understand all languages for the next 10 minutes, including magical and secret languages."
+        },
+        {
+          "roll": 31,
+          "effect": "All your ability scores temporarily increase to 20 (unless already 20 or higher) for 1d10 rounds. Your appearance changes accordingly."
+        },
+        {
+          "roll": 32,
+          "effect": "You gain the benefits of haste for 1d3+1 rounds starting at the beginning of your next turn."
+        },
+        {
+          "roll": 33,
+          "effect": "You reproduce the effect of mirror image on yourself."
+        },
+        {
+          "roll": 34,
+          "effect": "An entire picnic setting appears in the nearest empty space — blanket, basket of food and wine, cushions. Enough for six. Everything disappears one hour later."
+        },
+        {
+          "roll": 35,
+          "effect": "A small treasure chest crashes from the sky into the space immediately in front of you (DEX check DC 10+1d6 or 5d10 bludgeoning damage). Inside: 10d100 copper pieces of unfamiliar nationality."
+        },
+        {
+          "roll": 36,
+          "effect": "Your target(s) is charmed as per charm monster (even if immune) for 1d10 rounds. If targeting yourself, you become infatuated with yourself and brag for the duration."
+        },
+        {
+          "roll": 37,
+          "effect": "Everything within 10 feet of you that isn't nailed down is repulsed 1d6+1 squares away. Creatures or objects pushed into obstacles take 1d10 bludgeoning per square moved (CON save DC = spellcasting DC halves)."
+        },
+        {
+          "roll": 38,
+          "effect": "You gain telepathy out to 100 feet for 10 minutes. First round: head fills with noise from nearby intelligent beings (3+ = lose actions). After that: complete control."
+        },
+        {
+          "roll": 39,
+          "effect": "You immediately make a Recovery test without expending actions. Even if you don't, you feel refreshed as if after a good night's rest (no other long rest perks)."
+        },
+        {
+          "roll": 40,
+          "effect": "You immediately gain temporary HP equal to your current HP. Until lost, you feel compelled to take unnecessary risks."
+        },
+        {
+          "roll": 41,
+          "effect": "Spellsurge! If your spell allows saving throws, targets make them with Disadvantage. If it does damage, +50%. If it has a duration, +50%. If none apply, the spell fizzles."
+        },
+        {
+          "roll": 42,
+          "effect": "You and any allies within 120 feet immediately regain 5d6 hit points."
+        },
+        {
+          "roll": 43,
+          "effect": "Roll twice on this table, OR choose to have no surge occur — player's choice."
+        },
+        {
+          "roll": 44,
+          "effect": "Time slows for your target(s). They gain the benefits of haste for 1d3 turns."
+        },
+        {
+          "roll": 45,
+          "effect": "Large butterfly-like wings sprout from your back. For 1d10 minutes, you gain a fly speed of 40 feet. If airborne when the surge ends, you gain feather fall."
+        },
+        {
+          "roll": 46,
+          "effect": "Everyone within 30 feet — friend or foe — gains true seeing for 2d6 rounds."
+        },
+        {
+          "roll": 47,
+          "effect": "A heroes' feast (as per the spell) appears at a random spot up to 30 feet away."
+        },
+        {
+          "roll": 48,
+          "effect": "You create a blade barrier centered on the area or primary target of your spell. If no target, you become the target."
+        },
+        {
+          "roll": 49,
+          "effect": "You gain the benefits of legend lore regarding the last person, place, or object you spoke of or to prior to the surge."
+        },
+        {
+          "roll": 50,
+          "effect": "The nearest corpse (up to 100 miles away) is brought back to life as if by true resurrection, regardless of their relationship to you."
+        },
+        {
+          "roll": 51,
+          "effect": "You gain the benefits of freedom of movement for 2d6 rounds."
+        },
+        {
+          "roll": 52,
+          "effect": "Everyone within 100 feet gains the benefits of water walk for one hour. No one knows they have this ability until they step on a liquid."
+        },
+        {
+          "roll": 53,
+          "effect": "The nearest corpse (up to 1 mile away) gains semblance of life for 10 minutes. It will answer five questions and tries to garner attention (duplicates speak with dead)."
+        },
+        {
+          "roll": 54,
+          "effect": "For the next 10 minutes, you have immunity to cold damage. You gain a soothingly warm sensation."
+        },
+        {
+          "roll": 55,
+          "effect": "For the next 10 minutes, you have immunity to fire damage. You feel a perpetual draft on the back of your neck."
+        },
+        {
+          "roll": 56,
+          "effect": "For the next 10 minutes, you have immunity to lightning damage. You gain a tingling sensation."
+        },
+        {
+          "roll": 57,
+          "effect": "For the next 10 minutes, you have immunity to thunder damage. Everything sounds slightly muffled."
+        },
+        {
+          "roll": 58,
+          "effect": "For the next 10 minutes, you have immunity to acid damage. Your mouth fills with a sweet taste."
+        },
+        {
+          "roll": 59,
+          "effect": "A brilliant light glows from anything in your hands for one hour (or 60 feet above you if holding nothing). Duplicates daylight at your highest spell level."
+        },
+        {
+          "roll": 60,
+          "effect": "You gain the benefits of a sanctuary spell (DC 10+1d10) for 1d10 turns, or until you take a hostile action."
+        },
+        {
+          "roll": 61,
+          "effect": "All food and drink within 1 mile is instantly purified, as per purify food and drink."
+        },
+        {
+          "roll": 62,
+          "effect": "Your target(s) gain the benefits of longstrider for 10 rounds. If the spell had no targets, you gain them instead."
+        },
+        {
+          "roll": 63,
+          "effect": "You conjure 4d4 fey creatures (CR 1/2, DM's choice) in available squares around you. They remain 1d4+1 turns under your complete control, as per conjure woodland beings."
+        },
+        {
+          "roll": 64,
+          "effect": "You create a zone of truth in a 15-foot radius that persists for 2d6 rounds. You are unaware of this and believe your spell worked normally."
+        },
+        {
+          "roll": 65,
+          "effect": "All allies within 60 feet gain elemental weapon for 10 turns (d6: 1=acid, 2=cold, 3=fire, 4=lightning, 5=thunder, 6=roll twice ignoring duplicates)."
+        },
+        {
+          "roll": 66,
+          "effect": "You gain Advantage on the next physical attack you make on your next turn, as if you had cast true strike. You are aware of this."
+        },
+        {
+          "roll": 67,
+          "effect": "The nearest plant within 1 mile is awakened as per the spell. If close enough, you can ask it 3 questions before it wanders off to philosophize."
+        },
+        {
+          "roll": 68,
+          "effect": "You feel fantastic! You gain Advantage on the next social skill check you make within 10 rounds."
+        },
+        {
+          "roll": 69,
+          "effect": "A scroll containing a random DM-chosen spell appears in your hand. You can cast it flawlessly. It consumes itself in blue flame after 10 rounds."
+        },
+        {
+          "roll": 70,
+          "effect": "If you are maintaining a Concentration spell, it persists on its own for its full duration without your attention."
+        },
+        {
+          "roll": 71,
+          "effect": "A random creature pops out of your clothing and serves you for 10 minutes (as if drawn from a rust bag of tricks)."
+        },
+        {
+          "roll": 72,
+          "effect": "One of Quaal's feather tokens appears in your pocket. It disappears after 24 hours."
+        },
+        {
+          "roll": 73,
+          "effect": "You gain a +2 modifier on all rolls for the next 10 rounds through the power of repeated self-affirmations."
+        },
+        {
+          "roll": 74,
+          "effect": "You gain a +5 bonus on all Intelligence-linked tests, checks, and skills for the next 5 minutes."
+        },
+        {
+          "roll": 75,
+          "effect": "You gain a +5 bonus on all Wisdom-linked tests, checks, and skills for the next 5 minutes."
+        },
+        {
+          "roll": 76,
+          "effect": "You gain a +5 bonus on all Constitution-linked tests, checks, and skills for the next 5 minutes."
+        },
+        {
+          "roll": 77,
+          "effect": "You gain a +5 bonus on all Strength-linked tests, checks, and skills for the next 5 minutes."
+        },
+        {
+          "roll": 78,
+          "effect": "You gain a +5 bonus on all Dexterity-linked tests, checks, and skills for the next 5 minutes."
+        },
+        {
+          "roll": 79,
+          "effect": "Anyone targeting you for the next round targets someone else instead. If no one is trying to harm you, one or more allies feel compelled to smack you, dealing 1 point of damage each."
+        },
+        {
+          "roll": 80,
+          "effect": "For the next 10 rounds you are proficient with all weapons, armors, and shields."
+        },
+        {
+          "roll": 81,
+          "effect": "Choose one spell of level 1d4 from any spell list other than Sorcerer or Wizard. You can cast it on your next turn without expending a spell slot."
+        },
+        {
+          "roll": 82,
+          "effect": "Choose one cantrip from any spell list. You can cast it at will until your next long rest."
+        },
+        {
+          "roll": 83,
+          "effect": "You can cast any 1st or 2nd level spell you know without expending spell slots for the next 3 rounds."
+        },
+        {
+          "roll": 84,
+          "effect": "Any ability that costs Sorcery Points has its cost halved (rounded up) until your next short rest. (If no sorcery points available, reroll.)"
+        },
+        {
+          "roll": 85,
+          "effect": "The next ability you use that costs Sorcery Points has double the normal effect. (If no sorcery points available, reroll.)"
+        },
+        {
+          "roll": 86,
+          "effect": "The next spell you cast before your next long rest that allows a saving throw ricochets off the primary target and affects another target in range as if cast twice."
+        },
+        {
+          "roll": 87,
+          "effect": "Your senses are supercharged! Advantage on all Insight, Investigation, and Perception checks for 10 minutes. Natural sense ranges are also doubled."
+        },
+        {
+          "roll": 88,
+          "effect": "Your magic is supercharged: if you cast a spell requiring a saving throw on your next action, targets are not allowed to save unless they are an immensely powerful being (DM fiat)."
+        },
+        {
+          "roll": 89,
+          "effect": "Spell Sniper! Any spell with a range of 30 feet or more has its range limited only by your line of sight."
+        },
+        {
+          "roll": 90,
+          "effect": "You gain the benefits of tree stride for the next 10 rounds and are aware you have this ability."
+        },
+        {
+          "roll": 91,
+          "effect": "You are affected by a blink spell for the next 1d4+1 rounds."
+        },
+        {
+          "roll": 92,
+          "effect": "You are completely healed of all damage you are currently suffering."
+        },
+        {
+          "roll": 93,
+          "effect": "You and any allies within 30 feet gain the benefits of wind walk for the next hour."
+        },
+        {
+          "roll": 94,
+          "effect": "For the next 5 rounds, you are affected as if by shapechange, limited to creatures with CR equal to half your level (rounded up). Once chosen, you remain in that shape until the surge ends."
+        },
+        {
+          "roll": 95,
+          "effect": "You gain omniscient awareness for a moment. Whisper the DM one question relevant to your current situation — they must answer as truthfully as the wording warrants."
+        },
+        {
+          "roll": 96,
+          "effect": "A random occurrence manifests directly in front of you, chosen from the bag of beans effects."
+        },
+        {
+          "roll": 97,
+          "effect": "This surge duplicates a vanilla Wild Magic Surge from the Player's Handbook (http://dnd5e.wikidot.com/sorcerer:wild-magic)."
+        },
+        {
+          "roll": 98,
+          "effect": "This surge duplicates a Wand of Wonder effect."
+        },
+        {
+          "roll": 99,
+          "effect": "Time appears to stop! You are affected by time stop, gaining 1d3 turns of actions before the rest of the multiverse catches up."
+        },
+        {
+          "roll": 100,
+          "effect": "You are granted one wish, as per the spell — but you don't know it. The next thing you say that remotely falls within the spell's effect comes to fruition, for better or worse. The DM is encouraged to negate abuse and have fun with it."
+        }
+      ]
+    },
+    "detrimental": {
+      "label": "Mostly Detrimental Wild Magic Surge",
+      "d6Triggers": [
+        2,
+        5
+      ],
+      "entries": [
+        {
+          "roll": 1,
+          "effect": "If your target is yourself or an ally, they are affected by a harm spell. If an enemy, they gain regeneration 5 for 1d10 rounds (stopped only by necrotic damage). If neither applies, reroll."
+        },
+        {
+          "roll": 2,
+          "effect": "You are frozen for 1 round — unable to perform any action. You turn icy blue and a glaze of frost covers you and your gear."
+        },
+        {
+          "roll": 3,
+          "effect": "A miniature storm cloud appears over your head for 1d10 rounds, first striking you with lightning for 3d6 damage (no save), then soaking you in torrential rain. You are vulnerable to all lightning damage while the cloud persists."
+        },
+        {
+          "roll": 4,
+          "effect": "Your hair falls out and flutters to your feet. 1d10 rounds later it instantly regrows, startling you and interrupting whatever you were doing."
+        },
+        {
+          "roll": 5,
+          "effect": "Everything around you appears to turn into living Picasso paintings for 1d10 rounds. Disadvantage on all rolls that rely on visual information."
+        },
+        {
+          "roll": 6,
+          "effect": "Everything you say for 1d10 rounds must be a blatant lie. Opting to remain quiet is not an option — the lie bubbles out completely out of your control."
+        },
+        {
+          "roll": 7,
+          "effect": "You become enshrouded in a caterpillar's cocoon — you can breathe and hear but cannot move, speak, or see for 1d6 rounds unless cut free. The cocoon explodes at the end, dealing 1d4 bludgeoning to anyone within 10 feet."
+        },
+        {
+          "roll": 8,
+          "effect": "Your hands become coated in a greasy substance for 1d4 rounds. Everything you're holding immediately drops, and you cannot pick anything up for the duration."
+        },
+        {
+          "roll": 9,
+          "effect": "You are polymorphed into a small woodland creature (DM's choice) for 1d4 rounds. Any damage you suffer instantly ends the effect."
+        },
+        {
+          "roll": 10,
+          "effect": "You turn into a stone statue until the start of your next turn — no actions possible, but resistant to all nonmagical bludgeoning, piercing, and slashing damage for the duration."
+        },
+        {
+          "roll": 11,
+          "effect": "One spell you have available (DM's random choice) is automatically cast on an equally random target using the lowest available spell slot. That slot is consumed."
+        },
+        {
+          "roll": 12,
+          "effect": "You become completely intoxicated for 1d10 rounds. Disadvantage on DEX-, INT-, and WIS-based checks. Must succeed on a WIS check (DC = spellcasting DC) to cast any spell."
+        },
+        {
+          "roll": 13,
+          "effect": "For the next 13 rounds, you have Disadvantage on every roll you make."
+        },
+        {
+          "roll": 14,
+          "effect": "Every target of your spell — friend or foe — is struck by a bolt of lightning dealing 1d4 damage per caster level. DEX save for half damage."
+        },
+        {
+          "roll": 15,
+          "effect": "You are affected by Tasha's hideous laughter for 1d10 rounds. You can make a WIS check each turn to avoid falling prone, but you cannot end the spell prematurely."
+        },
+        {
+          "roll": 16,
+          "effect": "A 50-foot radius, 100-foot high cylinder around you is immediately affected by reverse gravity for 1d4 rounds."
+        },
+        {
+          "roll": 17,
+          "effect": "You must take a short rest immediately after leaving a crisis situation, or suffer a -5 penalty and Disadvantage on all rolls until you do."
+        },
+        {
+          "roll": 18,
+          "effect": "You are affected by feeblemind for 1d3 rounds. You can make a WIS save (DC = spellcasting DC) each round to avoid it."
+        },
+        {
+          "roll": 19,
+          "effect": "A tiny tornado appears at the center of your spell's target. Everything within 10 feet must DEX save or be knocked out of the radius. The tornado persists for 1d4 rounds."
+        },
+        {
+          "roll": 20,
+          "effect": "Any equipped magic items you have that carry charges are drained completely. Items that would be destroyed instead recharge normally over time."
+        },
+        {
+          "roll": 21,
+          "effect": "The clothing of every NPC of the opposite sex within 60 feet disappears for 2d4 rounds. Each one knows you are responsible."
+        },
+        {
+          "roll": 22,
+          "effect": "All metal weapons within 60 feet turn into rubber for 1d3 rounds, rendering them useless. Even magic items and artifacts are affected, though they retain other benefits."
+        },
+        {
+          "roll": 23,
+          "effect": "The ground rumbles for 1d4 rounds, duplicating the earthquake spell centered on your spell's primary target. If no valid target, it's centered on you."
+        },
+        {
+          "roll": 24,
+          "effect": "You become morbidly obese for 1d10 rounds. Disadvantage on all STR and DEX checks, and your movement rate is halved."
+        },
+        {
+          "roll": 25,
+          "effect": "Every NPC of the same gender within 60 feet has their romantic preferences altered for 1d10 rounds. This may make you unexpectedly popular."
+        },
+        {
+          "roll": 26,
+          "effect": "Your left hand becomes sentient for 1d4 rounds and tries to smack you. STR or DEX check (DC = spellcasting DC) to restrain it and perform any other action."
+        },
+        {
+          "roll": 27,
+          "effect": "Your boots become nailed to the ground by thick railroad spikes. STR check (DC = spellcasting DC). If you fail, you cannot move until you remove your boots or pry out the spikes."
+        },
+        {
+          "roll": 28,
+          "effect": "A ball of magical energy explodes around you for 1d6 damage per highest spell level you can cast (d6 for type: 1=acid, 2=cold, 3=fire, 4=lightning, 5=radiant, 6=thunder). Affects everyone within 10 feet. Saving throw (DC = spellcasting DC) halves damage; you have Disadvantage on your save."
+        },
+        {
+          "roll": 29,
+          "effect": "The nearest non-sentient animal within 10 miles becomes fully sentient and able to speak. It longs to find whoever cursed it with self-awareness. You are unaware anything happened."
+        },
+        {
+          "roll": 30,
+          "effect": "The effect, duration, and/or area of the spell you just used is halved. This may cause the spell to fail completely (DM's discretion)."
+        },
+        {
+          "roll": 31,
+          "effect": "Whatever spell you just created backfires. The DM decides the exact repercussions."
+        },
+        {
+          "roll": 32,
+          "effect": "Roll 1d10 times on the Trinkets table. Those trinkets rain down on your head, each dealing 1 point of bludgeoning damage. They can be gathered and kept."
+        },
+        {
+          "roll": 33,
+          "effect": "For 1d10 minutes, you can only hear when your mouth is open and only see when it is closed."
+        },
+        {
+          "roll": 34,
+          "effect": "Your nose disappears for 1d10 minutes. You also smell strongly of elderberries, defeating stealth and alerting creatures within 60 feet."
+        },
+        {
+          "roll": 35,
+          "effect": "Six feet of tongue rolls out of your mouth and flops on the ground, beyond your control, for 1d10 rounds. Cannot speak coherently. Movement speed reduced to 10. Disadvantage on DEX- and CHA-based checks."
+        },
+        {
+          "roll": 36,
+          "effect": "All light sources within 100 feet are instantly snuffed and cannot be reignited for 1d10 rounds. Magical or eternal sources reignite on their own when the duration ends."
+        },
+        {
+          "roll": 37,
+          "effect": "Any wooden items you possess slip away and root into the ground as appropriate plant life for 1d6 rounds. They return to their original form at the end of the duration."
+        },
+        {
+          "roll": 38,
+          "effect": "All your ability scores temporarily drop to 8 (unless already 8 or lower) for 1d4 turns. Your appearance alters accordingly."
+        },
+        {
+          "roll": 39,
+          "effect": "A muscle spasm causes you to smack yourself in the face at the start of your next turn. No notable damage, but you lose your action that turn."
+        },
+        {
+          "roll": 40,
+          "effect": "The entire world seems to spin around you just before your spell goes off. This may cause you to lose visual contact with your target, potentially causing the spell to fail."
+        },
+        {
+          "roll": 41,
+          "effect": "Your feet and footwear spontaneously triple in size. Disadvantage on DEX checks and movement halved for 1d6 rounds. If moving when this occurs, DEX check (DC = spellcasting DC) or trip and fall prone."
+        },
+        {
+          "roll": 42,
+          "effect": "A sunflower grows from your head, knocking off any hat or helmet. It can be pruned as an action, but another grows back next turn. Lasts 1d10 rounds."
+        },
+        {
+          "roll": 43,
+          "effect": "You become the single target of whatever spell you just cast, even if it was an area spell. If you were targeting yourself, a random creature within 60 feet becomes the target instead."
+        },
+        {
+          "roll": 44,
+          "effect": "A random monster with CR equal to your character level appears in an adjacent space (DM's choice). It acts appropriately for 1d6 rounds, then disappears in sparkly pink-and-purple smoke."
+        },
+        {
+          "roll": 45,
+          "effect": "Time seems to accelerate around you. You are effectively slowed as per the spell for 1d3 turns."
+        },
+        {
+          "roll": 46,
+          "effect": "You experience sudden and intense internal distress and spend 1d3 turns recovering. You are effectively incapacitated for the duration."
+        },
+        {
+          "roll": 47,
+          "effect": "Your last spell produced hallucinogenic green smoke. You become paranoid for 1d3 turns, spending your action on Perception or Investigation checks. You may still use bonus action, move, and reaction."
+        },
+        {
+          "roll": 48,
+          "effect": "You appear as a hill giant illusion — no benefits or hindrances. Social rolls except Intimidation have Disadvantage; Intimidation has Advantage against those fooled (DC = spellcasting DC). Lasts 1d12 rounds."
+        },
+        {
+          "roll": 49,
+          "effect": "Choose one piece of jewelry you have. For 1d3 rounds, you become obsessed with it, convinced everyone around you is plotting to steal it. Behave accordingly."
+        },
+        {
+          "roll": 50,
+          "effect": "A silence spell goes off, removing all sound within 10 feet of you for 1d10 rounds. The area does not move if you do."
+        },
+        {
+          "roll": 51,
+          "effect": "Two giant tusks jut out of your lower jaw for 1d10 rounds. Disadvantage on any rolls or checks requiring coherent speech."
+        },
+        {
+          "roll": 52,
+          "effect": "An angry stranger appears with a rolling pin, convinced she is your wife. She chases you for 1d3+1 rounds, ignoring all else. If she hits you, you take 1d6+1 bludgeoning damage. She disappears with a POP."
+        },
+        {
+          "roll": 53,
+          "effect": "You feel compelled to thoroughly explain something relevant to the situation to someone nearby. This takes up your bonus action for the round."
+        },
+        {
+          "roll": 54,
+          "effect": "A bucket of water dumps on your head and your lower half polymorphs into a giant fish for 1d10 rounds. Movement speed drops to 5, but you gain a Swim Speed of 60."
+        },
+        {
+          "roll": 55,
+          "effect": "A 10-foot-radius sphere of antimagic surrounds you, duplicating antimagic field. It persists for 1d6 rounds but does not move with you."
+        },
+        {
+          "roll": 56,
+          "effect": "A forbiddance effect stretches 10,000 feet in every direction from you. All teleportation and dimensional travel in the area fails for 24 hours. The area appears slightly desaturated."
+        },
+        {
+          "roll": 57,
+          "effect": "A swarm of disgruntled bumblebees attacks you for 1d3 rounds. DEX save (DC = spellcasting DC) each round or take 1d8 piercing damage (half on success)."
+        },
+        {
+          "roll": 58,
+          "effect": "The nearest corpse (up to 1 mile away) rises as a zombie or skeleton with one goal: find and kill you. Duplicates animate dead. If no corpse is available, nothing happens."
+        },
+        {
+          "roll": 59,
+          "effect": "You are compelled to make a physical attack on your next turn. If no enemy, you must attack an ally. Failure causes 10d10 psychic damage. Disadvantage vs hostile targets, Advantage vs friendly ones."
+        },
+        {
+          "roll": 60,
+          "effect": "You develop an intense craving for something you've never heard of. For 1d4 rounds you cannot concentrate on anything else, losing Concentration and unable to begin new effects."
+        },
+        {
+          "roll": 61,
+          "effect": "Ominous music begins playing around you. Anyone who tries to approach you for 1d6 rounds must succeed on a WIS save (DC = spellcasting DC) to do so."
+        },
+        {
+          "roll": 62,
+          "effect": "You discover you have a stick somewhere unpleasant. Until removed (one action), you cannot Concentrate on spells and have Disadvantage on all unrelated rolls."
+        },
+        {
+          "roll": 63,
+          "effect": "The ground within 60 feet of you becomes slick as ice, duplicating grease. Lasts 1d10 rounds and does not follow you."
+        },
+        {
+          "roll": 64,
+          "effect": "A banana peel appears under your foot the next time you step within 1d4 rounds. DEX save (DC = spellcasting DC) or fall prone."
+        },
+        {
+          "roll": 65,
+          "effect": "You fall in love with the first creature of the opposite sex you see. Effectively charmed as per charm person (even if immune) for 1d6 rounds. Everything you say must be in the form of love poems."
+        },
+        {
+          "roll": 66,
+          "effect": "You immediately fall asleep as if affected by the sleep spell (even if normally immune). You can be awoken normally, but lose your move or bonus action on the next round."
+        },
+        {
+          "roll": 67,
+          "effect": "Your alignment changes to the opposite pole for 3d10 minutes. You feel compelled to act accordingly. (Avoid disruptive gameplay.)"
+        },
+        {
+          "roll": 68,
+          "effect": "You have the uncontrollable urge to engage in a dance-off. This takes your action and move next turn. If the challenged creature fails a WIS save (DC = spellcasting DC), the battle persists for 1d6 more rounds."
+        },
+        {
+          "roll": 69,
+          "effect": "Your trousers fall down. Spend an action fixing this or suffer Disadvantage on all DEX- and CHA-linked skills, checks, and saves."
+        },
+        {
+          "roll": 70,
+          "effect": "A supernatural chill runs up your spine for 1d6 rounds. You cannot Concentrate and suffer -2 on all rolls."
+        },
+        {
+          "roll": 71,
+          "effect": "Two mysterious figures dressed in black appear. One shouts 'Sweep the leg!' You immediately fall prone, confused, as they disappear in red smoke."
+        },
+        {
+          "roll": 72,
+          "effect": "You are teleported 30 feet in a random direction and face an equally random direction. This may interrupt the spell you were casting."
+        },
+        {
+          "roll": 73,
+          "effect": "All your joints creak and groan. You suffer a -5 penalty on all CON-linked tests, checks, and saves for 2d4 rounds."
+        },
+        {
+          "roll": 74,
+          "effect": "You find yourself pondering inanities for 1d4 minutes. You suffer a -5 penalty on all WIS-linked tests, checks, and saves."
+        },
+        {
+          "roll": 75,
+          "effect": "Everyone seems to be laughing at you for reasons unclear. For 1d4 minutes, you suffer a -5 penalty on all INT-linked tests, checks, and saves."
+        },
+        {
+          "roll": 76,
+          "effect": "Gravity seems to have dramatically increased — but only for you. -5 penalty to all STR-related tests for 1d4 minutes. You can also carry only half your normal load."
+        },
+        {
+          "roll": 77,
+          "effect": "Temporal hiccup! Everyone and everything within 30 feet is compelled to repeat their exact action from this round on the next round. If impossible, they lose their turn."
+        },
+        {
+          "roll": 78,
+          "effect": "You are compelled to tell your best joke immediately, forfeiting any remaining actions this round."
+        },
+        {
+          "roll": 79,
+          "effect": "All enemies currently in combat choose to target only you on the next round."
+        },
+        {
+          "roll": 80,
+          "effect": "All vegetation within 60 feet of you withers and dies. The ground becomes completely infertile for a long time."
+        },
+        {
+          "roll": 81,
+          "effect": "Half of all the coins you have on your person (including extradimensional spaces) disappear permanently. Update your character sheet."
+        },
+        {
+          "roll": 82,
+          "effect": "Every time you try to cast a spell for 1d3 rounds, you've completely forgotten how. You may only perform mundane actions."
+        },
+        {
+          "roll": 83,
+          "effect": "You are unable to cast any damage-dealing or debilitating cantrips until you take a long or short rest."
+        },
+        {
+          "roll": 84,
+          "effect": "You are unable to cast any spell higher than 1st level until you take a long or short rest."
+        },
+        {
+          "roll": 85,
+          "effect": "The next non-cantrip spell you cast consumes twice as many spell slots as normal. If insufficient slots remain, the spell fails and the remaining slot is expended anyway."
+        },
+        {
+          "roll": 86,
+          "effect": "Any ability that costs Sorcery Points has its costs tripled until your next long rest. (If no sorcery points remaining, reroll.)"
+        },
+        {
+          "roll": 87,
+          "effect": "When you go to cast a specific spell, you instead cast a random spell of the same level that you know (DM's choice)."
+        },
+        {
+          "roll": 88,
+          "effect": "You are teleported 30 feet straight up (or higher to reach open space). You may take up to 1d6 bludgeoning damage per 10 feet fallen. DM fiat required."
+        },
+        {
+          "roll": 89,
+          "effect": "All Sorcery Point abilities have a 50% chance of working opposite to their intended effect until your next long rest (DM adjudicates oddities). (If no sorcery points, reroll.)"
+        },
+        {
+          "roll": 90,
+          "effect": "You cannot use any metamagic until you take a long or short rest. (If no sorcery points, reroll.)"
+        },
+        {
+          "roll": 91,
+          "effect": "One random ally within 60 feet views you as a hostile enemy for 1d3 rounds and feels compelled to attack. The urge fades the moment their attack successfully hits you."
+        },
+        {
+          "roll": 92,
+          "effect": "Every hostile action you take for 1d3 rounds backfires, affecting you rather than your intended target. You don't realize this until your first attack."
+        },
+        {
+          "roll": 93,
+          "effect": "You cannot use the words 'magic,' 'spell,' 'sorcery,' or 'cast' (or any variation) for 10 minutes. Accidentally saying one causes 3d10 psychic damage."
+        },
+        {
+          "roll": 94,
+          "effect": "The next spell you cast before your next long rest that allows a saving throw ricochets off the target and comes hurtling back at you. You are not allowed a saving throw."
+        },
+        {
+          "roll": 95,
+          "effect": "All your senses are dulled for 1d10 rounds. Disadvantage on all Perception, Investigation, and Insight checks. The range of all senses is halved."
+        },
+        {
+          "roll": 96,
+          "effect": "A random occurrence manifests directly in front of you, chosen from the bag of beans effects."
+        },
+        {
+          "roll": 97,
+          "effect": "This surge duplicates a vanilla Wild Magic Surge from the Player's Handbook (http://dnd5e.wikidot.com/sorcerer:wild-magic)."
+        },
+        {
+          "roll": 98,
+          "effect": "This surge duplicates a Wand of Wonder effect."
+        },
+        {
+          "roll": 99,
+          "effect": "You must spend your next available action casting the most devastatingly damaging spell in your arsenal. Failure causes 6d8 radiant damage to yourself and 3d8 radiant damage to anyone in adjacent squares."
+        },
+        {
+          "roll": 100,
+          "effect": "You and everyone within 100 feet are instantly teleported to a random location on a random plane of existence (DM's choice). You are immune to that plane's natural effects for 10 minutes — but the clock is ticking."
+        }
+      ]
+    },
+    "harmless": {
+      "label": "Mostly Harmless Wild Magic Surge",
+      "d6Triggers": [
+        3,
+        6
+      ],
+      "entries": [
+        {
+          "roll": 1,
+          "effect": "Your body turns into a living disco globe for 1d10 rounds. You retain your shape and mobility, but all ambient light within 100 feet shifts into a maelstrom of psychedelic colors."
+        },
+        {
+          "roll": 2,
+          "effect": "Tiny mushrooms grow from your nose — delicious and edible, but every time you pluck them off, another grows at the start of your next turn. Lasts 1d10 rounds."
+        },
+        {
+          "roll": 3,
+          "effect": "You know the complete Pittsburgh bus schedule for 1987. You have no idea what Pittsburgh or a bus is. You retain this knowledge for 1d6 rounds and brag about it whenever it seems relevant."
+        },
+        {
+          "roll": 4,
+          "effect": "Until the end of your next long rest, you quack like a disgruntled duck any time you become angry or annoyed."
+        },
+        {
+          "roll": 5,
+          "effect": "Your neck disappears for 1d10 rounds — your head appears to float above your shoulders. When it returns, a mysterious hickey remains until your next long rest."
+        },
+        {
+          "roll": 6,
+          "effect": "Your pockets overflow with gold coins for 3 turns. Every single one is foil-covered chocolate — very cheap and almost tasteless."
+        },
+        {
+          "roll": 7,
+          "effect": "You turn into a werecreature in hybrid form for 10 minutes (d6: 1=bear, 2=boar, 3=rat, 4=raven, 5=tiger, 6=wolf). Purely physical — no advantages or disadvantages of an actual werecreature, though others don't know this."
+        },
+        {
+          "roll": 8,
+          "effect": "For 1d10 rounds, every time you finish speaking, dramatic bombastic music punctuates your statement."
+        },
+        {
+          "roll": 9,
+          "effect": "You have an overwhelming need to pass gas — from one end or the other (your choice). When you do, it comes out as a bright incandescent rainbow with glittering sparkles. You suffer 1d4 psychic damage per round until you release it."
+        },
+        {
+          "roll": 10,
+          "effect": "The target(s) of your spell is affected by faerie fire for 1d10 rounds. You can choose any color, even one not normally granted by the spell."
+        },
+        {
+          "roll": 11,
+          "effect": "A cream-colored 1973 Oldsmobile Delta 88 falls from the sky and lands at your spell's target. Creatures within 5 feet make a DEX save with Advantage or take 5d10 bludgeoning. The vehicle disappears in a blast of rust and blood after 1d4+1 rounds."
+        },
+        {
+          "roll": 12,
+          "effect": "You become the consummate showman for the next minute. Everything you say or do must be grossly exaggerated and absolutely fabulous."
+        },
+        {
+          "roll": 13,
+          "effect": "Your spell's target polymorphs into a kaleidoscope of butterflies for 1d6 rounds, retaining consciousness but unable to act normally (may gain fly speed 5). They benefit from feather fall if airborne when the surge ends."
+        },
+        {
+          "roll": 14,
+          "effect": "The ambient weather in a 1-mile radius immediately changes for 2d6 rounds — sunny becomes stormy, blizzard becomes heatwave, etc. DM chooses the exact condition."
+        },
+        {
+          "roll": 15,
+          "effect": "Your pockets fill with popcorn kernels, which proceed to pop for 1d10 rounds. The resulting popcorn is quite tasty."
+        },
+        {
+          "roll": 16,
+          "effect": "Your ears turn into those of a donkey for 1d10 minutes."
+        },
+        {
+          "roll": 17,
+          "effect": "Your torso — and only your torso — turns invisible for 1d10 rounds, including any clothing or armor over it."
+        },
+        {
+          "roll": 18,
+          "effect": "An exact duplicate of yourself appears (sporting a black goatee regardless of your actual facial hair), punches you in the nose, and teleports away before you can react."
+        },
+        {
+          "roll": 19,
+          "effect": "You feel you've forgotten something vitally important. This haunts you for 1d10 rounds. Whatever it was is never revealed."
+        },
+        {
+          "roll": 20,
+          "effect": "You sprout a vestigial tail (d6: 1=monkey, 2=rabbit, 3=stegosaurus, 4=lizard, 5=rat, 6=pig). It bursts through clothing, falls off 10 minutes later, and the clothing is mended immediately afterward."
+        },
+        {
+          "roll": 21,
+          "effect": "Your skin turns bright purple for 1d10 rounds and becomes absolutely delicious. Any character who gets a taste becomes addicted and craves licking you until the surge ends (WIS save DC = spellcasting DC to break free)."
+        },
+        {
+          "roll": 22,
+          "effect": "Every time you speak for 1d12 rounds, the first thing out of your mouth is a perfect mimicry of a random animal of your choosing. You can speak normally after making the sound."
+        },
+        {
+          "roll": 23,
+          "effect": "Your shadow awakens, kicks you in the backside, and storms off indignantly. It returns one minute later looking a bit tipsy before settling back in."
+        },
+        {
+          "roll": 24,
+          "effect": "If your spell affected another creature, you and that creature immediately exchange places. If multiple targets, DM chooses. If no target, you are randomly teleported 10d10 yards in a random direction (including straight up)."
+        },
+        {
+          "roll": 25,
+          "effect": "A tiny faerie appears over your head in a burst of leaves and flowers, harasses you verbally for 1d3 rounds while easily dodging all attacks, then gives a final raspberry and flitters away as a ball of light."
+        },
+        {
+          "roll": 26,
+          "effect": "A thick, foul-smelling purplish discharge oozes from your ears for 1d8 rounds."
+        },
+        {
+          "roll": 27,
+          "effect": "Your nose starts to itch unbearably for 1d4 turns. Willpower can suppress it if necessary, but it is tremendously distracting."
+        },
+        {
+          "roll": 28,
+          "effect": "A cuckoo bird pops out of your mouth twelve times in a row. This prevents you from speaking or casting any spell with a verbal component until your next turn."
+        },
+        {
+          "roll": 29,
+          "effect": "A tragically bored halfling bard appears and plays a situationally appropriate tune on his lute, completely nonplussed by his arrival. He disappears once the encounter or situation is resolved."
+        },
+        {
+          "roll": 30,
+          "effect": "Tiny songbirds flutter around your head, chirping happily, until the end of your next turn."
+        },
+        {
+          "roll": 31,
+          "effect": "A squirrel appears in a nearby space and stands there pointing one tiny finger at you accusingly for 2d4 rounds, easily dodging all attacks. Anyone who can speak with animals hears it insisting 'YOU KNOW WHAT YOU DIIIIIID!'"
+        },
+        {
+          "roll": 32,
+          "effect": "A full-sized honey badger pops out of your clothing and badgers you in its very rude badger voice for 1d4 turns (inappropriate, according to anyone who speaks with animals). It melts into a pool of tears when the surge ends."
+        },
+        {
+          "roll": 33,
+          "effect": "You develop a craving for a Pan-Galactic Gargle Blaster. You have no idea what it is, but authority suggests it's quite something. The craving haunts you for 1d6 rounds."
+        },
+        {
+          "roll": 34,
+          "effect": "All of your clothing turns bright white for 1d10 minutes."
+        },
+        {
+          "roll": 35,
+          "effect": "All of your body hair turns neon pink for 1d10 minutes."
+        },
+        {
+          "roll": 36,
+          "effect": "You appear covered in blood for 1d6 rounds. No cleaning — magical or otherwise — removes it until the surge ends. This may attract unwanted attention."
+        },
+        {
+          "roll": 37,
+          "effect": "Your nipples begin lactating at an alarming rate. This does not go unnoticed by others. The surge ends in 1d6 rounds."
+        },
+        {
+          "roll": 38,
+          "effect": "A brilliant rainbow appears overhead, accompanied by a leprechaun in green and gold glitter. It runs over, kicks you in the shin, shouts something about its pot of gold, then runs off."
+        },
+        {
+          "roll": 39,
+          "effect": "You desperately want something called a Klondike Bar. You have no idea what it is. The feeling passes at the start of your next turn."
+        },
+        {
+          "roll": 40,
+          "effect": "An avian creature appropriate to the region swoops from nowhere and poops on your head. Hopefully not a wyvern, roc, or harpy."
+        },
+        {
+          "roll": 41,
+          "effect": "You gain the greatest epiphany of all time — the answer to life, the universe, and everything! Before you can share or write it down, you forget it. The number 42 haunts you for 1d10 minutes."
+        },
+        {
+          "roll": 42,
+          "effect": "Everything you say for 1d4 rounds must be sung rather than spoken, whispered, or otherwise expressed."
+        },
+        {
+          "roll": 43,
+          "effect": "You are compelled to narrate your actions for 1d6 rounds as if you were a wise-cracking noir detective from the 1920s. Anything you say must be in narrative form, or suffer 1d10 psychic damage per word."
+        },
+        {
+          "roll": 44,
+          "effect": "Everything you say for 1d4 rounds is spoken in a different language you know (not Common), changing each turn. You are completely unaware this is happening."
+        },
+        {
+          "roll": 45,
+          "effect": "Make a WIS save with Disadvantage (DC = spellcasting DC). If you fail, the DM laughs wickedly and may or may not tell you the outcome. If you succeed: choose nothing happens OR roll another surge."
+        },
+        {
+          "roll": 46,
+          "effect": "A bard appears and plays the same verse of a mysterious song on loop for 1d10 minutes, following you closely. If attacked, he explodes in colored ribbons that evaporate before hitting the ground."
+        },
+        {
+          "roll": 47,
+          "effect": "You gain the benefits of the thaumaturgy cantrip for 1d10 minutes with complete control over it."
+        },
+        {
+          "roll": 48,
+          "effect": "You gain the benefits of the vicious mockery cantrip for 1d10 minutes with complete control over it."
+        },
+        {
+          "roll": 49,
+          "effect": "A cacophony of fireworks and noisemakers goes off centered on your spell's target(s). The display attracts attention for at least a mile outdoors."
+        },
+        {
+          "roll": 50,
+          "effect": "You gain the benefits of the druidcraft cantrip for 1d10 minutes with complete control over it."
+        },
+        {
+          "roll": 51,
+          "effect": "You can use the control flames, gust, mold earth, and shape water cantrips at will until your next long rest."
+        },
+        {
+          "roll": 52,
+          "effect": "A wall of stone (as per the spell) juts out directly in front of you, filling two spaces and extending five spaces left and right. It persists 1d10 minutes, filling as much space as the area allows."
+        },
+        {
+          "roll": 53,
+          "effect": "You become glamoured with an illusion of the last person or creature you attacked. You are unaware of this. The illusion persists until you take damage or rest."
+        },
+        {
+          "roll": 54,
+          "effect": "Whatever you're holding in your main hand turns into a large fresh fish. If holding nothing, an even larger fish falls from the heavens and smacks you for 5d4 bludgeoning damage."
+        },
+        {
+          "roll": 55,
+          "effect": "A bottle of soy sauce appears in your hand. You have no idea what it is. The bottle disappears at the start of your next turn."
+        },
+        {
+          "roll": 56,
+          "effect": "You briefly ponder whether jellyfish are sad that there are no peanut butter fish. The epiphany fades at the start of your next turn."
+        },
+        {
+          "roll": 57,
+          "effect": "Everything you say for 1d10 rounds must rhyme — including spellcasting. Failing to rhyme causes you to automatically fail whatever action you were performing."
+        },
+        {
+          "roll": 58,
+          "effect": "The roof of your mouth is coated in applebutter. Disadvantage on smooth-talking social rolls this round, but Advantage on all other social rolls due to the applebutter putting you in good spirits."
+        },
+        {
+          "roll": 59,
+          "effect": "Cherry blossoms begin falling from the sky for 1d10 rounds. They follow you wherever you go."
+        },
+        {
+          "roll": 60,
+          "effect": "The world becomes black and white to you. No real effect unless color perception is needed, in which case Disadvantage on relevant rolls."
+        },
+        {
+          "roll": 61,
+          "effect": "Everything within 60 feet is silenced, but all speech becomes readable subtitles and noteworthy sounds become brightly colored onomatopoeias. Lasts 1d10 rounds and does not move with you."
+        },
+        {
+          "roll": 62,
+          "effect": "Anything colored red (or any close shade) becomes imperceptible to you for 1d10 rounds. Your brain simply cannot process the color and deletes it from your perception."
+        },
+        {
+          "roll": 63,
+          "effect": "The next time you reach into an extradimensional space, you pull out a potted cactus instead of what you expected. This surge persists until expended, even for years."
+        },
+        {
+          "roll": 64,
+          "effect": "The air within 60 feet smells of cinnamon apples for 1d10 rounds. The scent dominates completely — nothing else can be smelled."
+        },
+        {
+          "roll": 65,
+          "effect": "You feel compelled to narrate everyone's actions you are aware of for 1d4 rounds, as if you were a wise, old, gentlemanly Southerner."
+        },
+        {
+          "roll": 66,
+          "effect": "A clockwork bunny rabbit pops out of the ground in an adjacent square and follows you for 1d10 minutes. Any damage causes it to explode in springs and gears, dealing 1d10 piercing to anyone in the same or adjacent square."
+        },
+        {
+          "roll": 67,
+          "effect": "All of your body hair turns into brightly colored feathers for 1d6 minutes. When the surge ends, the feathers pop out in a shower of sparkles and glitter, and all your hair instantly returns."
+        },
+        {
+          "roll": 68,
+          "effect": "Certain anatomical features enlarge to five times their normal size for 1d4 rounds. Minor discomfort only, no mechanical effects."
+        },
+        {
+          "roll": 69,
+          "effect": "Everything anyone says or does for the next 6 seconds (one round) is accompanied by a laugh track, as if filmed before a live studio audience."
+        },
+        {
+          "roll": 70,
+          "effect": "You feel compelled to tell an inappropriate limerick relevant to the current situation. Failure results in being stunned for 1d3 turns."
+        },
+        {
+          "roll": 71,
+          "effect": "You feel compelled to smack anyone in an adjacent square on the rump. How they react is entirely up to them."
+        },
+        {
+          "roll": 72,
+          "effect": "Your head turns into a Jack O'Lantern for 1d10 rounds. No mechanical impact whatsoever, but others may react to your appearance."
+        },
+        {
+          "roll": 73,
+          "effect": "Your natural lifespan extends by 5d5 years. You are completely unaware of this and believe nothing has happened."
+        },
+        {
+          "roll": 74,
+          "effect": "A rabble of moths appear and swarm over you. When they dissipate, every non-magical piece of clothing you're wearing disappears. Permanently."
+        },
+        {
+          "roll": 75,
+          "effect": "The ambient temperature within 100 feet shifts up to 100 degrees toward a pleasant 70°F. This lasts 8 hours before reverting to the local environment."
+        },
+        {
+          "roll": 76,
+          "effect": "One of your magic items (DM's choice) transforms into another magic item of the same type of equal or greater value."
+        },
+        {
+          "roll": 77,
+          "effect": "All alcoholic beverages within 60 feet (including extradimensional spaces) have their quality noticeably improved. Anyone who drinks them and sees you within 24 hours will know you were responsible."
+        },
+        {
+          "roll": 78,
+          "effect": "You feel compelled to shout that you have an ogre-slaying knife with a +9 against ogres. You don't, and it doesn't, but that's neither here nor there."
+        },
+        {
+          "roll": 79,
+          "effect": "You attempt to cast magic missile into the darkness — even if unable to cast it or if there is no darkness. No spell slot consumed, but costs a bonus action."
+        },
+        {
+          "roll": 80,
+          "effect": "You must immediately shout one of the following at full volume (your choice): 'WHERE ARE THE CHEETOS?!' / 'WHERE'S THE MOUNTAIN DEW?!' / 'I'M GONNA GET A SODA, ANYONE WANT ONE?!' / 'COOL, I GET DRUNK!'"
+        },
+        {
+          "roll": 81,
+          "effect": "You are convinced you are Nightblade the halfling thief. You feel compelled to sing Fly-By Night. You are also carrying a six-pack of Mountain Dew (which is literally just dew). Lasts the rest of the current scene."
+        },
+        {
+          "roll": 82,
+          "effect": "You develop a craving for Funyuns. You don't know what they are, but you are deeply disappointed. The craving fades after 1d4 rounds."
+        },
+        {
+          "roll": 83,
+          "effect": "You realize that in a previous edition, you were a monster. You briefly monologue about your lair, your minions, and how great that was, then blink and come back to your senses."
+        },
+        {
+          "roll": 84,
+          "effect": "You feel compelled to moonwalk — and only moonwalk — for 1d10 rounds. HEE!"
+        },
+        {
+          "roll": 85,
+          "effect": "Until after your next long rest, you have the know-how of a master chef. Any food you prepare will be absolutely amazing regardless of ingredients or tools."
+        },
+        {
+          "roll": 86,
+          "effect": "You feel compelled to sincerely compliment the next person or creature you make eye contact with. Their reaction depends entirely on the situation and how flattering the compliment is."
+        },
+        {
+          "roll": 87,
+          "effect": "You feel compelled to share a pun relevant to the current situation. Failure to do so results in 10d10 psychic damage. You are fully aware of this consequence."
+        },
+        {
+          "roll": 88,
+          "effect": "You accidentally pull a scandalous magazine from one of your bags. The moment you realize what it is, you shove it back immediately. Anyone who goes looking for it afterward finds nothing."
+        },
+        {
+          "roll": 89,
+          "effect": "Your eyes turn completely black, red, or white (your choice) for 1d6 rounds. Your vision remains completely unaffected. Others may or may not react."
+        },
+        {
+          "roll": 90,
+          "effect": "You feel compelled to be the consummate gentleman for 1d6 minutes and live up to the chivalric ideal to the best of your ability."
+        },
+        {
+          "roll": 91,
+          "effect": "You feel compelled to repeat 'I'm getting too old for this' (or a variant) each round for 1d10 rounds."
+        },
+        {
+          "roll": 92,
+          "effect": "You feel compelled to steal a kiss from the most attractive creature in the room. If alone, you fall prone and sigh wistfully for 1d4 rounds."
+        },
+        {
+          "roll": 93,
+          "effect": "A pretty flower appears out of thin air. You feel compelled to pluck it and add it to your attire."
+        },
+        {
+          "roll": 94,
+          "effect": "One of your pouches or pockets fills to overflowing with pretty polished pebbles of all types. Valueless, but they continue to pour out for 1d3 rounds."
+        },
+        {
+          "roll": 95,
+          "effect": "A random thingamabob appears in your bags, chosen from the Trinkets table."
+        },
+        {
+          "roll": 96,
+          "effect": "A random occurrence manifests directly in front of you, chosen from the bag of beans effects."
+        },
+        {
+          "roll": 97,
+          "effect": "This surge duplicates a vanilla Wild Magic Surge from the Player's Handbook (http://dnd5e.wikidot.com/sorcerer:wild-magic)."
+        },
+        {
+          "roll": 98,
+          "effect": "This surge duplicates a Wand of Wonder effect."
+        },
+        {
+          "roll": 99,
+          "effect": "You gain the ability to create a mirage arcana as per the spell. It persists up to 10 days, but you must decide on the details before the end of your next turn, after which you lose control."
+        },
+        {
+          "roll": 100,
+          "effect": "Nothing appears to happen. Oh heavens to mercy, that can't be good... The DM is free to invent their own surge — it should be 'mostly harmless.' Or should it...?"
+        }
+      ]
+    }
+  }
+}

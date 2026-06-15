@@ -1,0 +1,112 @@
+[
+  {
+    "suit": "A♦",
+    "card": "Vizier",
+    "effect": "Keep this card. At any time on your turn, you may announce \"FREEZE!\" and shuffle this card back into the Deck of Many Things. You can take another turn immediately after this one. When it ends, you may place yourself anywhere in the initiative order (although do not take a third turn during this round of combat.)"
+  },
+  {
+    "suit": "K♦",
+    "card": "Sun",
+    "effect": "Keep this card. Whenever you roll a new character, shuffle this card back into the Deck of Many Things. Your new character starts with two additional items from item deck. Additionally, you can reroll your race and class once without taking a Flaw."
+  },
+  {
+    "suit": "Q♦",
+    "card": "Moon",
+    "effect": "You may look through the item deck and take any one card in the deck for yourself. Shuffle the deck when you're done."
+  },
+  {
+    "suit": "J♦",
+    "card": "Star",
+    "effect": "Keep this card. At any time, you may announce \"MEDIC!\" and shuffle this card back into the Deck of Many Things. You or any other player immediately heals for 25% of their total HP."
+  },
+  {
+    "suit": "2♦",
+    "card": "Comet",
+    "effect": "Keep this card. After any successful attack from any player, you may announce \"CRIT!\" and shuffle this card back into the Deck of Many Things. That attack automatically critically hits."
+  },
+  {
+    "suit": "A♥",
+    "card": "The Fates",
+    "effect": "Keep this card. After any enemy action, you may announce \"REWIND!\" and shuffle this card back into the Deck of Many Things. The enemy character's action is undone, and they must take a different action for their turn."
+  },
+  {
+    "suit": "K♥",
+    "card": "Throne",
+    "effect": "Keep this card. At any time, you may announce \"SO BE IT!\" and shuffle this card back into the Deck of Many Things. You - or another player, with that player's permission - may immediately take an action that that player could normally take on their turn."
+  },
+  {
+    "suit": "Q♥",
+    "card": "Key",
+    "effect": "Your weapon is blessed with magical power: gain +3 to attack and damage rolls in addition to your current bonuses."
+  },
+  {
+    "suit": "J♥",
+    "card": "Knight",
+    "effect": "Keep this card. At any time on your turn, you may announce \"PRAISE THE SUN!\" and shuffle this card back into the Deck of Many Things. A friendly knight spawns adjacent to you and takes it turn immediately after you (DM control.) The knight lasts until the end of the encounter or until it's slain."
+  },
+  {
+    "suit": "2♥",
+    "card": "Gem",
+    "effect": "Draw twice from the item deck. You may discard either of them them and draw again."
+  },
+  {
+    "suit": "A♣",
+    "card": "Talons",
+    "effect": "You lose half of your magical items, rounded up, chosen randomly. Artifacts are not counted and are immune."
+  },
+  {
+    "suit": "K♣",
+    "card": "The Void",
+    "effect": "Keep this card. The next time your current character rolls a 13 on d20, shout \"NOOOOOOOOOOOOO\" and shuffle this card back into the Deck of Many Things. Your character is dragged away into the nether and instantly dies."
+  },
+  {
+    "suit": "Q♣",
+    "card": "Flames",
+    "effect": "Keep this card. At any time, you may announce \"DEAL WITH THE DEVIL\" and shuffle this card into the Deck of Many Things. Your character now has advantage on all attack rolls - however, if you ever roll a natural 1 on either roll, your character immediately dies."
+  },
+  {
+    "suit": "J♣",
+    "card": "Skull",
+    "effect": "Keep this card. When your character dies, you may announce \"BEWARE - I LIVE\" and shuffle this card back into the Deck of Many Things. Your character returns to life with 50% health, all ability uses as they were when you died, and 2 random Flaws. (If you choose not to do this, the card is shuffled back into the Deck without effect.)"
+  },
+  {
+    "suit": "2♣",
+    "card": "Idiot",
+    "effect": "Choose one of your character's abilities. You can no longer use that ability. But in sufficient ignorance bliss is found: if another player draws the Idiot, you get your ability back, with all charges available."
+  },
+  {
+    "suit": "A♠",
+    "card": "Donjon",
+    "effect": "Keep this card. At any time you may play this card and announce \"TIME IS RUNNING OUT!\" and shuffle this card back into the Deck of Many Things. If the game has been running for less than 2 hours, all players regain 50% of their max HP and receive a random Flaw. If the game has been running for more than 2 hours, all players simply regain 50% HP."
+  },
+  {
+    "suit": "K♠",
+    "card": "Ruin",
+    "effect": "Announce \"I'M RUINED!\" Discard any number of your items. For each item you don't discard, receive a random Flaw."
+  },
+  {
+    "suit": "Q♠",
+    "card": "Euryale",
+    "effect": "You immediately receive two random Flaws."
+  },
+  {
+    "suit": "J♠",
+    "card": "Rogue",
+    "effect": "For each item, Flaw, and Deck of Many Thing cards you currently have, discard that card and draw a new card to replace it. (Draw them in that category order.)"
+  },
+  {
+    "suit": "2♠",
+    "card": "Balance",
+    "effect": "Keep this card. Whenever you draw an item card, you receive a new Flaw. Whenever you receive a Flaw, draw two item cards (This does not trigger the first effect.) (Card is shuffled back into the Deck of Many Things on character death.)"
+  },
+  {
+    "suit": "Joker 1",
+    "card": "Fool",
+    "effect": "Randomly select another player. Your character permanently loses their racial ability and has a copy of that player's racial ability instead."
+  },
+  {
+    "suit": "Joker 2",
+    "card": "Jester",
+    "effect": "Draw twice more from the Deck of Many Things, then shuffle this card back into the deck."
+  }
+]
