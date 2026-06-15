@@ -75,11 +75,13 @@ export function generateCharacter(raceId, classId, level = 10) {
     mods[stat] = getModifier(stats[stat]);
   }
 
-  // ── 3. HP (with floor of 1 HP per level) ─────────────────────────────────
-  const sorcBonus   = classId === 10 ? 10 : 0;
-  const hpPerLevel  = Math.max(mods.con, 1);        // minimum 1 HP per level
-  const hpAtLevel10 = cls.baseHP + (BASE_LEVEL * hpPerLevel) + sorcBonus;
-  const hp          = hpAtLevel10 + ((level - BASE_LEVEL) * hpPerLevel);
+  // ── 3. HP ────────────────────────────────────────────────────────────────
+  // cls.baseHP is the TOTAL HP for a level 10 character — not a base to add onto.
+  // Scale up or down from that anchor by hpPerLevel per level above/below 10.
+  // Floor of 1 HP per level prevents negative scaling for very low CON.
+  const sorcBonus  = classId === 10 ? 10 : 0;
+  const hpPerLevel = Math.max(mods.con, 1);
+  const hp         = (cls.baseHP + sorcBonus) + ((level - BASE_LEVEL) * hpPerLevel);
 
   // ── 4. AC ─────────────────────────────────────────────────────────────────
   const normalAC = (() => {
